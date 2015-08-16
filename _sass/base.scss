@@ -1,0 +1,25 @@
+#main-img {
+  position: fixed;
+  top: 0;
+  z-index: 0;
+  display: block;
+}
+
+#main {
+  position: absolute;
+  width: 100%;
+  top: 150px;
+  left: 0;
+  z-index: 100;
+}
+
+#page-title {
+  background: #fff;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+#page-content {
+  background: #fff;
+  min-height: 600px;
+}

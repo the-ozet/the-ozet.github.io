@@ -14,3 +14,8 @@ exclude:
 
 sass:
   sass_dir: _sass
+
+collections:
+  works:
+    output: true
+    permalink: /works/:path/

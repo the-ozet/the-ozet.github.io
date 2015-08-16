@@ -2,12 +2,39 @@
 <html>
 <head>
   <title>OZET</title>
-  <link rel="stylesheet" type="text/css" href="assets/stylesheets/base.css">
+  <link rel="stylesheet" type="text/css" href="/assets/stylesheets/styles.css">
 </head>
 <body>
 
-{% include nav.html %}
-{{ content }}
+<figure id="main-img">
+  <img src="/assets/images/{{page.main_img}}">
+</figure>
+
+<div id="main">
+
+  <div id="page-title">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-4">
+          <h1>{{ page.title }}</h1>
+        </div>
+        <div class="col-sm-8 col-xs-8 text-right">
+          {% include nav.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          {{ content }}      
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
 </html>
