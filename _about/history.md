@@ -1,6 +1,6 @@
 ---
 main_img: "fields.jpg"
-Category: About
+category: About
 ---
 # History
 
