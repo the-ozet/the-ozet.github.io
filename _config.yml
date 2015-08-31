@@ -19,3 +19,6 @@ collections:
   works:
     output: true
     permalink: /works/:path/
+  about:
+    output: true
+    permalink: /about/:path/
