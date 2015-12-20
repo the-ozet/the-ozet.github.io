@@ -17,10 +17,12 @@ category: OZET
 <div class="row works-maj">
   <div class="col-sm-12">
     <h2>
-      <a href="">{{work.title}}</a>
-      <span class="pull-right">{{work.date}}</span>
+      <a href="{{work.url}}">{{work.title}}</a>
+      <span class="pull-right">{{work.year}}</span>
     </h2>
-    <img src="/assets/images/{{work.main_img}}">
+    <a href="{{work.url}}" className="main-image">
+      <img src="/assets/images/{{work.main_img}}"/>
+    </a>
   </div>
 </div>
 {% endfor %}

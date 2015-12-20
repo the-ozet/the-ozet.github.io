@@ -1,5 +1,5 @@
 body {
-  /*background: #EDAE40*/
+  background: #efefef;
 }
 
 #main {
@@ -7,6 +7,10 @@ body {
   letter-spacing: 0.1em;
   line-height: 1.6em;
   font-size: 15px;
+}
+
+.ozet-title {
+  font-size: 36px;
 }
 
 #site-nav {
@@ -17,7 +21,7 @@ body {
 
 .works-maj {
 
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 
   h2 {
     position: absolute;
@@ -37,8 +41,16 @@ body {
     }
   }
 
+  .main-image {
+    display: block;
+  }
+
   img {
     display: block;
     width: 100%;
   }
+}
+
+.videos {
+  margin-top: 30px;
 }
