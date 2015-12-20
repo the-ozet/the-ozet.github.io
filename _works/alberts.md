@@ -1,5 +1,5 @@
 ---
-main_img: "Alberts-s6.jpg"
+main_img: "Alberts-s6.JPG"
 category: Works
 title: Alberts I-V
 date: 2010-08-05
