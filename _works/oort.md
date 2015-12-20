@@ -1,5 +1,5 @@
 ---
-main_img: "forests.jpg"
+main_img: "oort-form.png"
 category: Works
 title: OoRT
 date: 2017-06-24

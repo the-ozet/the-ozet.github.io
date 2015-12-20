@@ -2,7 +2,9 @@
 ---
 $font-family-monospace: Menlo, Monaco, Consolas, "Courier New", monospace !default;
 $font-family-base: $font-family-monospace !default;
+$headings-font-family: Arial, Helvetica, sans-serif;
 
 // import bootstrap
 @import "bootstrap";
-@import "base";
+/*@import "base";*/
+@import "aa"

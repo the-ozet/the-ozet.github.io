@@ -1,5 +1,5 @@
 ---
-main_img: "forests.jpg"
+main_img: "chv20-main.jpg"
 category: Works
 title: Common Hall Village 20
 date: 2012-01-26

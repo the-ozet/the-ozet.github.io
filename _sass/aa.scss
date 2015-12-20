@@ -1,0 +1,44 @@
+body {
+  /*background: #EDAE40*/
+}
+
+#main {
+  color: #222;
+  letter-spacing: 0.1em;
+  line-height: 1.6em;
+  font-size: 15px;
+}
+
+#site-nav {
+  a {
+    display: block;
+  }
+}
+
+.works-maj {
+
+  margin-bottom: 30px;
+
+  h2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: border-box;
+    padding: 0 30px;
+    /*font-weight: bold;*/
+    color: #fff;
+    line-height: 44px;
+
+    a {
+      color: #fff;
+      font-size: 44px;
+      font-weight: bold
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+  }
+}
