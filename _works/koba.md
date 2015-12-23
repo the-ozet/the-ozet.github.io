@@ -1,5 +1,5 @@
 ---
-main_img: "katorga-becky.png"
+main_img: "Koba_scn5.jpg"
 category: Works
 title: Koba / OZET Songbook
 date: 2010-03-06
