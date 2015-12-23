@@ -7,6 +7,12 @@ year: 2014
 ---
 ## Katorga
 
+### Location
+
+Incubator Arts Project
+
+### Summary
+
 KATORGA revolves around the experiences of a woman exiled to OZET’s prison colony for revolutionary activities in the turgid, early days of the Fifteenth Generation. Electronic and acoustic music, spoken and sung text, gestural choreography, and an immersive environment all combine to vivify a richly imagined world where prisoners labor in dimly lit mushroom fields as wardens struggle to communicate with the givers of the law, and somewhere on the outskirts a hundred-year-old hermit is setting out tea for his missing son.
 
 <div class="row videos">
