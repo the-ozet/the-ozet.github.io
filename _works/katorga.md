@@ -17,22 +17,22 @@ KATORGA revolves around the experiences of a woman exiled to OZET’s prison col
 
 ### Performers
 
-Brendan Dougherty: drums, electronics<br>
+Becky Baumwoll: acting<br>
 Daniel Baker: voice, chimes<br>
+Scott Blumenthal: guitar<br>
+Brendan Dougherty: drums, electronics<br>
+Paula Matthusen: live vocal processing<br>
 Aaron Meicht: trumpet, keyboards, electronics<br>
 Matt Mitchell: piano, keyboards, electronics<br>
-Paula Matthusen: live vocal processing<br>
-Scott Blumenthal: guitar<br>
-Becky Baumwoll: the Woman<br>
 
-### Creative Team
+### Designers / Crew
 
 Britt Plunkett: set<br>
 Thomas Dunn: lights<br>
 Kathleen Geldard: costumes<br>
 Dan Scully: video<br>
-Jesse Perez: movement<br>
-Alex Harbaugh, Phillip Peglow: sound
+Broken Chord: sound
+Jesse Perez: performance consultant
 
 
 
