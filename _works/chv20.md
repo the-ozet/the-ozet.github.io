@@ -7,7 +7,11 @@ year: 2012
 ---
 # Common Hall Village 20  
 
-###Incubator Arts Project
+### Location
+
+Incubator Arts Project
+
+### Summary
 
 On the eve of the Festival of the Fifteenth Generation, the Pioneers of Village 20 gather to watch The Council’s official broadcast. The vodka is free, the band plays anthems and local favorites, and the villagers wonder, “Will the soil recover? Are the men in the corner really here to help?” Before the celebration ends, a shocking interruption will expose a fissure in the OZET’s Utopian facade, and the Pioneers will face the beginning of a new, troubled age. 
 
