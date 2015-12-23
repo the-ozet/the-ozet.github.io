@@ -24,21 +24,21 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
 
 ### Performers
 
-Matt Bauder: tenor sax
-Scott Blumenthal: actor, guitar, singing
-LeeAnne Hutchinson: actor
-Darius Jones: alto sax
-Aaron Meicht: trumpet, electronics, singing
-Seth Meicht: tenor sax
-James Moore: guitar
-Mike Pride: drums
-Steven Rattazzi: actor
-Wil Smith: keys
-Josh Sinton: baritone sax
+Matt Bauder: tenor sax<br>
+Scott Blumenthal: acting, guitar, singing<br>
+LeeAnne Hutchinson: acting<br>
+Darius Jones: alto sax<br>
+Aaron Meicht: trumpet, electronics, singing<br>
+Seth Meicht: tenor sax<br>
+James Moore: guitar<br>
+Mike Pride: drums<br>
+Steven Rattazzi: acting<br>
+Josh Sinton: baritone sax<br>
+Wil Smith: keyboards<br>
 
 ### Designers / Crew
 
-Daniel Baker, Daniel Kluger: sound
+Broken Chord, Daniel Kluger: sound
 
 
 
