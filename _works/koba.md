@@ -1,0 +1,38 @@
+---
+main_img: "katorga-becky.png"
+category: Works
+title: Koba / OZET Songbook
+date: 2010-03-06
+year: 2010
+---
+## Koba / OZET Songbook
+
+A spec-fic mystery with Soviet overtones for seven musicians and three actors. After the break, a rock band performs official and unofficial selections from the OZET Songbook.
+
+
+<div class="row videos">
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Performers
+
+Matt Bauder: tenor sax
+Scott Blumenthal: actor, guitar, singing
+LeeAnne Hutchinson: actor
+Darius Jones: alto sax
+Aaron Meicht: trumpet, electronics, singing
+Seth Meicht: tenor sax
+James Moore: guitar
+Mike Pride: drums
+Steven Rattazzi: actor
+Wil Smith: keys
+Josh Sinton: baritone sax
+
+### Designers / Crew
+
+Daniel Baker, Daniel Kluger: sound
+
+
+
