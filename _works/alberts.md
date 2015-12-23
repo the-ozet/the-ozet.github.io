@@ -17,16 +17,16 @@ Ten years before the historic launch of the Collective Sphere OZET, five men end
 
 ### Performers
 
-Scott Blumenthal: acting, guitar
-Aaron Meicht: acting, trumpet
+Scott Blumenthal: acting, guitar<br>
+Aaron Meicht: acting, trumpet<br>
 Paula Matthusen and Wil Smith: pre-show acting
 
 ### Designers / Crew
 
-Paula Matthusen: live electronics
-Broken Chord: sound
-Jayce Bartok and Andres Karu: opening film
-Thomas Dunn: lights
+Paula Matthusen: live electronics<br>
+Broken Chord: sound<br>
+Jayce Bartok and Andres Karu: opening film<br>
+Thomas Dunn: lights<br>
 Anya Klepikov: set design consultant
 
 
