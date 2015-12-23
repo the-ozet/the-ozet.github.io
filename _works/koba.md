@@ -7,6 +7,12 @@ year: 2010
 ---
 ## Koba / OZET Songbook
 
+### Location
+
+Ontological-Hysteric Theater
+
+### Summary
+
 A spec-fic mystery with Soviet overtones for seven musicians and three actors. After the break, a rock band performs official and unofficial selections from the OZET Songbook.
 
 
