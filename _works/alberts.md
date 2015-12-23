@@ -7,6 +7,12 @@ year: 2010
 ---
 ## Alberts I-V
 
+### Location
+
+HERE
+
+### Summary
+
 Ten years before the historic launch of the Collective Sphere OZET, five men endure eight grueling months of astronautical training in a secret facility three miles west of Zhytomyr. Two pioneers make the cut. A new chapter in the evolving OZET saga, featuring live acoustic and electronic music, dialogue, film, scientific exposition, boxing, duct tape, pickles and vodka.
 
 <div class="row videos">
