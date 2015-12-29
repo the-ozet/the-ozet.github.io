@@ -1,5 +1,5 @@
 ---
-main_img: "Smuggler.png"
+main_img: "Smuggler_still.jpg"
 category: Works
 title: Various Work
 date: 2008-06-24
