@@ -1,7 +1,7 @@
 ---
 main_img: "Bernal_scn8d.jpg"
 category: Works
-title: Various Work
+title: Bernal Project
 date: 2007-08-08
 year: 2007-2008
 ---
