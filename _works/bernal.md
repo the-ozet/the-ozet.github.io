@@ -5,9 +5,9 @@ title: Bernal Project
 date: 2007-08-08
 year: 2007-2008
 ---
-# Bernal Project
+## Bernal Project
 
-### Location
+### Locations
 
 Rattlestick Theater, Ontological-Hysteric Theater
 
