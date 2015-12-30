@@ -18,9 +18,9 @@ On the eve of the Festival of the Fifteenth Generation, the Pioneers of Village 
 CVH20 was inspired in equal parts by images from the Romanian Revolution, the writings of J.D. Bernal, the life and music of Woody Guthrie, and the creators' years as participant-observers in the local scene at the 80-year-old Washington Heights watering hole Reynold's Cafe. 
 
 <div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/kbhmhsz7pJI" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/9tfjjr1j56s" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/z1yxs5AlTNk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Performers
@@ -31,7 +31,6 @@ NIKOLOZ ... Daniel Baker<br>
 MALKHAZI ... Scott Blumenthal<br>
 THE DRUMMER ... Brendan Dougherty<br>
 THE TRUMPET PLAYER ... Aaron Meicht<br>
-<br><br>
 COUNCILOR ... Paul Zimet<br>
 SUBVERSIVE #1 ... Jesse Perez<br>
 SUBVERSIVE #2 ... Paula Matthusen<br>
