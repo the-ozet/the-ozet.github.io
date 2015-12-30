@@ -17,9 +17,9 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
 
 
 <div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/Hvlr8dPhiZk" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/zUAfvb9g584" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/UChkmXJFBUk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Performers
