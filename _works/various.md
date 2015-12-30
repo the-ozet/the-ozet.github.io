@@ -5,7 +5,8 @@ title: Various Work
 date: 2008-08-02
 year: 2008-2013
 ---
-# Various Work
+## Various Work
+
 ### Locations
 
 Ontological-Hysteric Theater, Listen/Space, Cousin Dave's House, Incubator Arts Project, Fresh Ground Pepper, The Silent Barn
