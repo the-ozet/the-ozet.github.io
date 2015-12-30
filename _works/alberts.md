@@ -16,16 +16,16 @@ HERE
 Ten years before the historic launch of the Collective Sphere OZET, five men endure eight grueling months of astronautical training in a secret facility three miles west of Zhytomyr. Two pioneers make the cut. A new chapter in the evolving OZET saga, featuring live acoustic and electronic music, dialogue, film, scientific exposition, boxing, duct tape, pickles and vodka.
 
 <div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://youtu.be/RkwzkTxk-B4" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://youtu.be/k1dlzNzs1Fk" frameborder="0" allowfullscreen></iframe>
+  <iframe class="col-sm-4 col-xs-12" src="https://youtu.be/EN295MoPPis" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Performers
 
 Scott Blumenthal: acting, guitar<br>
 Aaron Meicht: acting, trumpet<br>
-Paula Matthusen and Wil Smith: pre-show acting
+Paula Matthusen and Wil Smith: pre-show assistants
 
 ### Designers / Crew
 
