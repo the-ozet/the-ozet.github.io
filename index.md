@@ -20,4 +20,7 @@ category: OZET
 {% endfor %}
 </div>
 
+<script type="text/javascript">
+  
+</script>
 <script type="text/javascript" src="/assets/javascripts/sort-works.js"></script>
