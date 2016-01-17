@@ -11,6 +11,19 @@ body {
 
 .ozet-title {
   font-size: 36px;
+  color: #000;
+  opacity: .5;
+  font-weight: bold;
+  text-decoration: none;
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+
+  &:hover {
+    opacity: 1;
+    text-decoration: none;
+  }
 }
 
 #site-nav {
@@ -19,9 +32,14 @@ body {
   }
 }
 
+.main-content {
+  margin-top: $pad;
+  margin-bottom: $pad*2;
+}
+
 .works-maj {
 
-  margin-bottom: 60px;
+  margin-bottom: $pad*3;
 
   h2 {
     position: absolute;
@@ -51,10 +69,10 @@ body {
   }
 }
 
-.videos {
-  margin-top: 30px;
+.video {
+  margin-top: $pad;
 
-  /*iframe {
-    width: 100%;
-  }*/
+  figcaption {
+    font-size: 13px;
+  }
 }

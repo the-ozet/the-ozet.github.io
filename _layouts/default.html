@@ -2,34 +2,22 @@
 <html>
 <head>
   <title>OZET</title>
-  <link rel="stylesheet" type="text/css" href="/assets/stylesheets/styles.css">
+  <link rel="stylesheet" type="text/css" href="/assets/stylesheets/styles.css" />
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script type="text/javascript" src="/assets/javascripts/size-videos.js"></script>
   <meta charset="UTF-8">
 </head>
 <body>
-
-<figure id="main-img">
-  <!--img src="/assets/images/{{page.main_img}}"-->
-</figure>
-
 <div id="main">
-
-  <div id="page-title">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <h1>{{ page.category }}</h1>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <div id="page-content">
     <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-12">
+          <h1><a href="/" class="ozet-title">OZET</a></h1>
           {% include nav.html %}
         </div>
-        <div class="col-sm-8 col-xs-12">
+        <div class="col-sm-8 col-xs-12 main-content">
           {{ content }}      
         </div>
       </div>

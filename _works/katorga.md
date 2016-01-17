@@ -15,11 +15,11 @@ Incubator Arts Project
 
 KATORGA revolves around the experiences of a woman exiled to OZET’s prison colony for revolutionary activities in the turgid, early days of the Fifteenth Generation. Electronic and acoustic music, spoken and sung text, gestural choreography, and an immersive environment all combine to vivify a richly imagined world where prisoners labor in dimly lit mushroom fields as wardens struggle to communicate with the givers of the law, and somewhere on the outskirts a hundred-year-old hermit is setting out tea for his missing son.
 
-<div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/wHLYr1vFuKM" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/GRsBWHgtl7Y" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/ayrH2A1RVXc" frameborder="0" allowfullscreen></iframe>
-</div>
+### Video
+
+{% include video.html video_id="wHLYr1vFuKM" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
+{% include video.html video_id="GRsBWHgtl7Y" title="Katorga: Section 4c" description="The Warden.<br><br><em>Take your harvest to the scale.<br>Look around!  Who can speak for her Cousins?<br>You!  To the scale!  Now!</em>" %}
+{% include video.html video_id="ayrH2A1RVXc" title="Katorga: Section 7 &amp; 8" description="The woman arrives." %}
 
 ### Performers
 
