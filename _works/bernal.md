@@ -13,11 +13,9 @@ Rattlestick Theater, Ontological-Hysteric Theater
 
 ### Summary
 
-The origins of OZET: early explorations of the melodic structure.  Found texts by Karl Krauss.<br><br>
-Bernal Project: Scene 5-7 (2008)<br>
-Bernal Project: Scene 8 (2008)<br>
-Bernal Project: Scene 2 (2007)<br>
-Bernal Project: Formula (2007)
+The origins of OZET: early explorations of the melodic structure.  Found texts by Karl Krauss.
+
+Scene 5-7 (2008); Scene 8 (2008); Scene 2 (2007); Formula (2007)
 
 ### Video
 
