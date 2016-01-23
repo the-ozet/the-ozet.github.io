@@ -15,12 +15,12 @@ Ontological-Hysteric Theater
 
 A spec-fic mystery with Soviet overtones for seven musicians and three actors. After the break, a rock band performs official and unofficial selections from the OZET Songbook.
 
+### Video
 
-<div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/Hvlr8dPhiZk" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/zUAfvb9g584" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/UChkmXJFBUk" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html video_id="Hvlr8dPhiZk" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
+{% include video.html video_id="zUAfvb9g584" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
+{% include video.html video_id="UChkmXJFBUk" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
+
 
 ### Performers
 
