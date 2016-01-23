@@ -21,7 +21,7 @@ OZETset (2013); [The] servant (cleaning up in the next room) cannot make music. 
 
 {% include video.html video_id="YU99RLUPTGE" title="100 Year Old Man ChimeBox Movie + [The] servant (cleaning up in the next room) cannot make music" description="" %}
 {% include video.html video_id="20rdRL6R13w" title="Katorga Retraction Holiday" description="The Warden.<br><br><em>Take your harvest to the scale.<br>Look around!  Who can speak for her Cousins?<br>You!  To the scale!  Now!</em>" %}
-{% include video.html video_id="jFyXxg6OMS8" title="OZET Drinking Ritual" description="<em>As for me, she said, I shall be quite satisfied to leave a world where action is never sister of the dream.</em>" %}
+{% include video.html video_id="jFyXxg6OMS8" title="OZET Drinking Ritual" description="<em>Cousin, who will drive the harrow?  Thirteen empty stokas wait.<br>Autumn calls for rye.  Sow while it's light.</em>" %}
 
 ### Performers
 
