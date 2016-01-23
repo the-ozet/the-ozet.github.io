@@ -19,7 +19,7 @@ KATORGA revolves around the experiences of a woman exiled to OZET’s prison col
 
 {% include video.html video_id="wHLYr1vFuKM" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
 {% include video.html video_id="GRsBWHgtl7Y" title="Katorga: Section 4c" description="The Warden.<br><br><em>Take your harvest to the scale.<br>Look around!  Who can speak for her Cousins?<br>You!  To the scale!  Now!</em>" %}
-{% include video.html video_id="ayrH2A1RVXc" title="Katorga: Section 7 &amp; 8" description="" %}
+{% include video.html video_id="ayrH2A1RVXc" title="Katorga: Section 7 &amp; 8" description="<em>As for me, she said, I shall be quite satisfied to leave a world where action is never sister of the dream.</em>" %}
 
 ### Performers
 
