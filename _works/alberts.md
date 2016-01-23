@@ -15,11 +15,12 @@ HERE
 
 Ten years before the historic launch of the Collective Sphere OZET, five men endure eight grueling months of astronautical training in a secret facility three miles west of Zhytomyr. Two pioneers make the cut. A new chapter in the evolving OZET saga, featuring live acoustic and electronic music, dialogue, film, scientific exposition, boxing, duct tape, pickles and vodka.
 
-<div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/RkwzkTxk-B4" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/k1dlzNzs1Fk" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/EN295MoPPis" frameborder="0" allowfullscreen></iframe>
-</div>
+### Video
+
+{% include video.html video_id="RkwzkTxk-B4" title="Excerpts from Alberts I-V" description="<em>We are not the first men in space,<br>but we are the men who carried a table<br>off the face of the earth to prove<br>that civilization can thrive somewhere new.</em>" %}
+{% include video.html video_id="k1dlzNzs1Fk" title="OZET Archival Footage #20332-A" description="6 March 1918<br>Veksler Training Complex<br>3 Miles West of Zyhtomyr" %}
+{% include video.html video_id="EN295MoPPis" title="Birds in Boxes" description="<em>I had a vision, an experiment to try:<br>put birds in boxes, lift them by balloons.</em>" %}
+
 
 ### Performers
 
