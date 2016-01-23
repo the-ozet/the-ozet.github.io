@@ -13,17 +13,17 @@ Rattlestick Theater, Ontological-Hysteric Theater
 
 ### Summary
 
-The origins of OZET: early explorations of the melodic structure.<br><br>
+The origins of OZET: early explorations of the melodic structure.  Found texts by Karl Krauss.<br><br>
 Bernal Project: Scene 5-7 (2008)<br>
 Bernal Project: Scene 8 (2008)<br>
 Bernal Project: Scene 2 (2007)<br>
 Bernal Project: Formula (2007)
 
-<div class="row videos">
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/nUVoNRTCk8E" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/zSlfrsDEbVI" frameborder="0" allowfullscreen></iframe>
-  <iframe class="col-sm-4 col-xs-12" src="https://www.youtube.com/embed/f5-AKlXT3i8" frameborder="0" allowfullscreen></iframe>
-</div>
+### Video
+
+{% include video.html video_id="nUVoNRTCk8E" title="Excerpt from Scene 6" description="<em>&quot;It is the height of ingratitude if a sausage calls a pig a pig&quot;</em>" %}
+{% include video.html video_id="zSlfrsDEbVI" title="Excerpt 1 from Scene 8" description="<em>&quot;To be human is erroneous.&quot;</em>" %}
+{% include video.html video_id="f5-AKlXT3i8" title="Excerpt 2 from Scene 2" description="<em>&quot;The superman is a premature ideal, one that presupposes man.&quot;</em>" %}
 
 ### Performers
 
