@@ -10,6 +10,6 @@ catgory: Music
   </div>
   <figcaption class="col-sm-4">
     <h4>Transmissions</h4>
-    <p>2012-2015</p>
+    <p>2012-present</p>
   </figcaption>
 </div>
