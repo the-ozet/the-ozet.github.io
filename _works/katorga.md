@@ -10,8 +10,7 @@ June, 2014
 
 ### Location
 
-Incubator Arts Project at St. Mark's Church
-<br>New York, NY
+Incubator Arts Project
 
 ### Summary
 

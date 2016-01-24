@@ -7,6 +7,8 @@ year: 2007-2008
 ---
 ## Bernal Project
 
+2007-2008
+
 ### Locations
 
 Rattlestick Theater, Ontological-Hysteric Theater
