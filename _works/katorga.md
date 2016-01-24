@@ -6,10 +6,12 @@ date: 2014-06-24
 year: 2014
 ---
 ## Katorga
+June, 2014
 
 ### Location
 
-Incubator Arts Project
+Incubator Arts Project at St. Mark's Church
+<br>New York, NY
 
 ### Summary
 
@@ -39,6 +41,12 @@ Kathleen Geldard: costumes<br>
 Dan Scully: video<br>
 Broken Chord: sound
 Jesse Perez: performance consultant
+
+### Press
+
+"[Bidding Farewell to a Home of Visionary Art with Space Travel and a Vodka Shot](http://www.nytimes.com/2014/06/26/theater/incubator-arts-projects-katorga-an-ozet-performance.html?_r=0)", <em>The New York Times</em>, June 25, 2013
+
+"[Katorga: An Ozet Performance](http://www.timeout.com/newyork/theater/katorga-an-ozet-performance)", Time Out New York, June 26, 2014
 
 
 

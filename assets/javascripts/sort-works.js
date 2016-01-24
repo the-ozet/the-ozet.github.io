@@ -3,7 +3,7 @@ $(document).ready(function() {
       return;
     }
     // var works = [{% for work in site.works %}{{ work | jsonify }},{% endfor %}];
-    $works = $('.works-maj'),
+    $works = $('.works-maj, #works-list > div'),
     $container = $works.eq(0).parent();
 
     WORKS.sort(function(a, b) {
