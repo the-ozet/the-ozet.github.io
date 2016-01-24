@@ -2,6 +2,8 @@
 catgory: About
 ---
 
+## About
+
 **OZET** is an ongoing artistic collaboration that encompasses a variety of live performances, films, music recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
 
 OZET began in 2007, when Aaron started writing and performing musical forms inspired by his encounter with J.D. Bernal's prophetic 1929 scientific treatise *The World, The Flesh, and the Devil*. These "Bernal Project" pieces also integrated ideas and text by Carl Sagan, Karl Kraus, Mark Kurlansky, Barbara Rosenwein, and Peter Singer. In the late Summer of 2008, Scott joined Aaron in evolving the project, and together they developed the idea of the Collective Sphere OZET.

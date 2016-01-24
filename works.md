@@ -2,6 +2,9 @@
 main_img: "fields.jpg"
 title: "Works"
 ---
+
+## Works
+
 <div id="works-list">
 {% for work in site.works %}
 <div class="row" title="{{work.title}}">
