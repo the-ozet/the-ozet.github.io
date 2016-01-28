@@ -15,7 +15,7 @@ Rattlestick Theater, Ontological-Hysteric Theater
 
 ### Summary
 
-The origins of OZET: early explorations of the melodic structure.  Found texts by Karl Krauss.
+The origins of OZET: early explorations of the melodic structure. These "Bernal Project" pieces integrated ideas and text by Carl Sagan, Karl Kraus, Mark Kurlansky, Barbara Rosenwein, and Peter Singer. 
 
 Scene 5-7 (2008); Scene 8 (2008); Scene 2 (2007); Formula (2007)
 
