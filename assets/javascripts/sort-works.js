@@ -7,7 +7,7 @@ $(document).ready(function() {
     
     //console.log(WORKS)
     WORKS.sort(function(a, b) {
-      return (Date.parse(new Date(a.date)) > Date.parse(new Date(b.date))) ? 1 : -1;
+      return (a.date > b.date) ? 1 : -1;
     })
     //console.log(WORKS)
     WORKS.forEach(function(work) {
