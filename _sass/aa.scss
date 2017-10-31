@@ -87,12 +87,26 @@ h4 {
 }
 
 #texts-page {
-  
+
   h3 {
     margin-bottom: 20px;
   }
 
   p {
     font-size: 14px;
+  }
+}
+
+#latest-work {
+  display: flex;
+  flex-direction: row;
+
+  .new-work {
+    width: 30%;
+    margin: 0 auto;
+
+    p {
+      text-align: center;
+    }
   }
 }

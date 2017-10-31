@@ -4,6 +4,17 @@ category: OZET
 
 **OZET** is an ongoing artistic collaboration that encompasses a variety of live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
 
+<div id="latest-work">
+  <div class="new-work">
+    <p>The Transmission EP</p>
+  </div>
+  <div class="new-work">
+    <p>The Film</p>
+  </div>
+  <div class="new-work">
+    <p>Oort</p>
+  </div>
+</div>
 <div class="works-container">
 {% for work in site.works %}
 <div class="row works-maj" title="{{work.title}}">
