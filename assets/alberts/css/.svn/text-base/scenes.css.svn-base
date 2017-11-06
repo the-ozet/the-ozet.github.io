@@ -1,0 +1,93 @@
+#scenes {
+	width: 600px;
+	padding: 20px;
+	margin: 0 0 40px;
+	color: #222;
+	background: #fff;
+	font-family: arial, helvetica;
+	font-size: 12px;
+	line-height: 1.5;
+	float: left;
+}
+
+.scene {
+	display: none;
+}
+
+.direction {
+	font-style: italic;
+}
+
+.question,
+.to_do,
+.media {
+	font-size: 11px;
+	color: #999;
+}
+
+p.direction,
+p.question,
+p.to_do,
+p.media {
+	margin-bottom: 10px;
+}
+
+.media {
+	font-size: 12px;
+	color: #999;
+}
+
+.media a {
+	color: #66cc66;
+	text-decoration: none;
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+.media a:hover {
+	text-decoration: underline;
+}
+
+dd p.direction {
+	margin-top: 10px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 10px;
+}
+
+.scene h2 {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+#scene_list {
+	font-family: courier, monospace;
+	color: #fff;
+	padding: 10px;
+	font-size: 12px;
+	float: left;
+	margin: 0 20px 40px 0;
+}
+
+#scene_list li {
+	border-bottom: 1px solid #999;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+#scene_list a {
+	text-decoration: none;
+	color: #999;
+}
+
+#scene_list li.selected a {
+	text-decoration: none;
+	color: #ccc;
+	font-weight: bold;
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>OZET: Alberts I-V Scenario</title>
+	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<style type="text/css" media="screen">
+		body {
+			background: #000;
+			margin: 20px 0 0 20px;
+			padding: 0 0 40px;
+		}
+
+		h1 {
+			font-family: courier, monospace;
+			font-size: 14px;
+			color: #fff;
+		}
+		
+		#container {
+			width: 960px;
+			position: relative;
+		}
+		
+		#more_stuff {
+			position: absolute;
+			top: 0px;
+			right: 0px;
+			font-family: courier, monospace;
+			font-size: 14px;
+			color: #fff;
+			text-align: right;
+			z-index: 100;
+		}
+		
+		#more_stuff a {
+			color: #fff;
+			text-decoration: none;
+		}
+		
+		#more_stuff a:hover {
+			text-decoration: underline;
+		}
+		
+		#more_stuff.active p {
+			background: #fff;
+			line-height: 20px;
+			padding: 0 20px;
+		}
+		
+		#more_stuff.active a {
+			color: #000;
+			text-decoration: none;
+		}
+		
+		#more_stuff ul {
+			display: none;
+		}
+		
+		#more_stuff.active ul {
+			display: block;
+			margin-top: 10px;
+			background: #fff;
+			padding: 20px;
+			border: 1px solid #000;
+		}
+		
+		#more_stuff ul li {
+			margin-bottom: 5px;
+		}
+		
+	</style>
+	<link rel="stylesheet" href="css/stage.css" type="text/css" media="all" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="css/scenes.css" type="text/css" media="all" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="css/player.css" type="text/css" media="all" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="css/print.css" type="text/css" media="print" title="no title" charset="utf-8">
+	
+</head>
+
+<body>
+	
+	<div id="container">
+	
+		<h1>Alberts I - V Scenario</h1>
+	
+		<div id="more_stuff">
+			<p>
+				<a href="#">Additional Resources</a>
+			</p>
+			<ul>
+				<li><a href="http://ozet.us/">OZET site</a></li>
+				<li><a href="OZET_Songbook.zip">OZET Songbook Scores and Audio (.zip, 80MB)</a></li>
+			</ul>
+		</div>
+	
+		<div id="theater">
+			<div id="stage">
+				<div id="lighting"></div>
+				<div id="bed3" class="bed space"></div>
+				<div id="bed5" class="bed space"></div>
+				<div id="shared_space" class="space">
+					<div id="table"></div>
+				</div>
+				<div id="apron" class="space"></div>
+				<div id="monitors" class="space">monitors shelf</div>
+			
+				<div id="albert3" class="albert">3</div>
+				<div id="albert5" class="albert">5</div>
+			</div>
+		</div>
+		<a href="foo.mp3" class="play"></a>
+		<div id="scenes">
+		
+			<div id="preshow" class="scene" title="Pre-Show"></div>
+			<div id="movie" class="scene" title="Alberts Movie"></div>
+			<div class="scene" id="lift_off" title="Lift Off"></div>
+			<div class="scene" id="first_meal" title="First Meal"></div>
+			<div id="first_transmission" class="scene" title="First Transmission"></div>
+			<div id="calesthenics" class="scene" title="Calesthenics"></div>
+			<div class="scene" id="second_transmission" title="Second Transmission"></div>
+			<div id="second_meal" class="scene" title="Second Meal"></div>
+			<div id="no_sleep" class="scene" title="No Sleep"></div>
+			<div class="scene" id="third_transmission" title="Third Transmission"></div>
+			<!-- div id="chess" class="scene" title="Chess"></div -->
+			<div class="scene" id="monitoring" title="Monitoring"></div>
+			<div id="fourth_transmission" class="scene" title="Fourth Transmission"></div>
+			<div id="last_meal" class="scene" title="Last Meal"></div>
+			<div id="postshow" class="scene" title="Post-Show: Songbook"></div>
+		
+		</div>
+	
+	</div>
+	<div id="player_container">
+		<p>
+			<span id="player_play"><a href="#" title="play">play</a></span> | <span id="player_pause"><a href="#" title="pause">pause</a></span> | <span id="player_stop"><a href="#" title="stop">stop</a></span>
+		</p>
+
+		<table id="player_progress">
+			<tr>
+				<th>Jump</th>
+				<td id="player_progress_ctrl_bar"></td>
+			</tr>
+			<tr>
+				<th>Played</th>
+				<td id="player_progress_play_bar"><span class="progress"></span></td>
+			</tr>
+			<tr>
+				<th>Loaded</th>
+				<td id="player_progress_load_bar"><span class="progress"></span></td>
+			</tr>
+			<tr>
+				<th>Volume</th>
+				<td id="player_volume_bar"></td>
+			</tr>
+		</table>
+	</div>
+	<div id="jquery_jplayer"></div>
+</div>
+	
+	<script src="js/jquery-1.4.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/scenes.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$('#more_stuff p a').click(function(){
+				$('#more_stuff').toggleClass('active');
+				return false;
+			})
+		});
+	</script>
+	<script src="js/jquery.jplayer.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/player.js" type="text/javascript" charset="utf-8"></script>
+	
+</body>
+</html>

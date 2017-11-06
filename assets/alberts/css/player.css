@@ -1,0 +1,39 @@
+/* player */
+
+#player_container {
+	width: 400px;
+	margin-bottom: 10px;
+	display: none;
+}
+
+#player_container p a {
+	color: #000;
+}
+
+#player_container th {
+	width: 100px;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+#player_container td {
+	width: 300px;
+	border-bottom: 1px solid #000;
+	padding-top: 5px;
+}
+
+
+#player_container span.progress {
+	height: 11px;
+	background: #000;
+	display: block;
+	width: 1%;
+}
+
+#player_container td a {
+	display: block;
+	border-left: 1px solid #000;
+	width: 2px;
+	height: 11px;
+	float: left;
+}

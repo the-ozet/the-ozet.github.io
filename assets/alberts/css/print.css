@@ -1,0 +1,14 @@
+body {
+	background: #fff;
+}
+
+#more_stuff,
+#theater,
+#scene_list,
+.play {
+	display: none;
+}
+
+#scenes {
+	font-size: 14px;
+}
