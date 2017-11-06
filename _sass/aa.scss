@@ -97,14 +97,58 @@ h4 {
   }
 }
 
+.hp-title {
+  // font-size: 32px;
+  // font-weight: bold;
+}
+
 #latest-work {
-  // display: flex;
-  display: none;
+  display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  margin-bottom: $pad;
 
   .new-work {
-    width: 30%;
+    width: 33.3%;
+    height: 200px;
     margin: 0 auto;
+    position: relative;
+    background: #fff;
+    overflow: hidden;
+
+    h3 {
+      position: absolute;
+      left: 10px;
+      top: 10px;
+      color: #fff;
+      position: 200;
+      display: none;
+    }
+
+    img {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      position: 100;
+    }
+
+    &:hover {
+      width: calc(100% - 30px);
+      margin-left: 15px;
+      box-sizing: border-box;
+      position: absolute;
+      z-index: 100;
+      top: 0;
+      left: 0;
+
+      h3 {
+        display: block;
+        font-size: 24px;
+        font-weight: bold;
+      }
+    }
 
     p {
       text-align: center;
