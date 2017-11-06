@@ -98,7 +98,8 @@ h4 {
 }
 
 #latest-work {
-  display: flex;
+  // display: flex;
+  display: none;
   flex-direction: row;
 
   .new-work {

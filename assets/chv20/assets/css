@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Cardo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cardo'), local('Cardo-Regular'), url(http://themes.googleusercontent.com/static/fonts/cardo/v5/c6Zi_ulq7hv-avk-G9Yut6CWcynf_cDxXwCLxiixG1c.woff) format('woff');
+}
+@font-face {
+  font-family: 'Kameron';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kameron'), url(http://themes.googleusercontent.com/static/fonts/kameron/v4/GI1FiPDyXI2-Lso8qM1w1ALUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nobile';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nobile'), local('Nobile-Regular'), url(http://themes.googleusercontent.com/static/fonts/nobile/v4/BdG5WJmB9CCPn6im5Y8A5OvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
