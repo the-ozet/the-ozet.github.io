@@ -24,3 +24,5 @@ collections:
     permalink: /about/:path/
   texts:
     output: false
+  scores:
+    output: true
