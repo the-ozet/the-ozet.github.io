@@ -28,4 +28,5 @@ collections:
     output: true
     permalink: /texts/:path/
   scores:
+    permalink: /scores/:path/
     output: true

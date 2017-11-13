@@ -16,6 +16,9 @@ category: texts
         <a href="{{text.redirect}}">{{text.title}}</a>
       {% endif %}
       </h3>
+      {% if text.work %}
+      <span>From <em>{{text.work}}</em></span><br/>
+      {% endif %}
       <span>{{text.year}}</span>
     </div>
   </div>
