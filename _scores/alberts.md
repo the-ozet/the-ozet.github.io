@@ -1,8 +1,10 @@
 ---
 category: Scores
-title: Alberts I-V
+title: Alberts I-V Score
 work: Alberts I-V
-score: 8_Albert.pdf
+date: 2010-08-05
+year: 2010
+score: alberts.pdf
 ---
 
 This is some basic boilerplate about the score.  Maybe we want it, maybe we don't.

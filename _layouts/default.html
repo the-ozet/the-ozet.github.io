@@ -19,11 +19,16 @@
       OZET.SCORES = [{% for score in site.scores %}{
         title: '{{score.title}}',
         work: '{{score.work}}',
-        score: '{{score.score}}'
+        score: '{{score.score}}',
+        date: '{{work.date}}'
       },{% endfor %}]
 
-      console.log(OZET.WORKS);
-      console.log(OZET.SCORES);
+      OZET.TEXTS = [{% for text in site.texts %}{
+        title: '{{text.title}}',
+        date: '{{work.date}}',
+        work: '{{text.work}}'
+      },{% endfor %}]
+
     })()
     window.WORKS = [{% for work in site.works %}{ title: '{{work.title}}', date: '{{work.date}}' },{% endfor %}]
   </script>

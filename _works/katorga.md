@@ -16,6 +16,8 @@ Incubator Arts Project
 
 KATORGA revolves around the experiences of a woman exiled to OZET’s prison colony for revolutionary activities in the turgid, early days of the Fifteenth Generation. Electronic and acoustic music, spoken and sung text, gestural choreography, and an immersive environment all combine to vivify a richly imagined world where prisoners labor in dimly lit mushroom fields as wardens struggle to communicate with the givers of the law, and somewhere on the outskirts a hundred-year-old hermit is setting out tea for his missing son.
 
+{% include materials.md %}
+
 ### Video
 
 {% include video.html video_id="wHLYr1vFuKM" title="Katorga: Section 1" description="The woman arrives.<br><br><em>What beauty behind us.<br>Silver eyeball, see us and turn.<br>Forget everything all you won</em>" %}
@@ -46,6 +48,3 @@ Jesse Perez: performance consultant
 "[Bidding Farewell to a Home of Visionary Art with Space Travel and a Vodka Shot](http://www.nytimes.com/2014/06/26/theater/incubator-arts-projects-katorga-an-ozet-performance.html?_r=0)", <em>The New York Times</em>, June 25, 2013
 
 "[Katorga: An Ozet Performance](http://www.timeout.com/newyork/theater/katorga-an-ozet-performance)", Time Out New York, June 26, 2014
-
-
-

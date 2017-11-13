@@ -16,6 +16,8 @@ sass:
   sass_dir: _sass
 
 collections:
+  posts:
+    permalink: pretty
   works:
     output: true
     permalink: /works/:path/
@@ -23,6 +25,7 @@ collections:
     output: true
     permalink: /about/:path/
   texts:
-    output: false
+    output: true
+    permalink: /texts/:path/
   scores:
     output: true

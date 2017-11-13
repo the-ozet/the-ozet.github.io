@@ -1,13 +1,11 @@
 ---
 category: Texts
-title: From the Birobidzhan Star, March 23, 1929
-date: 2010-08-05
+title: Alberts I-V Scenario
+work: Alberts I-V
+date: 2011-08-05
 year: 2010
+redirect: "/assets/alberts"
 ---
-
-## Texts
-
-### {{ page.title }}
 
 The Committee for the Deployment of Working Jews, under the guidance of Pyotor G. Smidovich, and with funds secured through private donations and its popular public lotteries, today dedicated the Collective Sphere OZET in a ceremony in Moscow. Upon its completion in late Spring, the OZET will become the home of nearly seven hundred pioneers, lishenets [politically disenfranchised enemies of the people] determined to become productive members of the Proletariat. Many Old Bolsheviks attended the ceremony and enjoyed, via live broadcast from space, a thrilling glimpse of this flagship, self-sustaining, super-orbital craft.
 

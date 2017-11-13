@@ -14,7 +14,7 @@
           }
           return memo;
         }, [])
-    console.log(filtered);
+
     $container.empty().html(filtered)
   }
 
