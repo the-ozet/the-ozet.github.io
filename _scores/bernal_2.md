@@ -1,6 +1,6 @@
 ---
 category: Scores
-title: Bernal Project (scene 2)
+title: Bernal Project Scene 2
 work: Origins of OZET
 date: 2007-12-03
 year: 2007
