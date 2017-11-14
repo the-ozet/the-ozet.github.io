@@ -19,6 +19,8 @@ The origins of OZET: early explorations of the melodic structure. The "Bernal Pr
 
 Formula (2007); Scene 2 (2007); Scene 8 (2008); Scene 5-7 (2008); There's a distance at which control returns to us (2008)
 
+{% include materials.md %}
+
 ### Video
 
 {% include video.html video_id="nUVoNRTCk8E" title="Excerpt from Scene 6" description="<em>&quot;It is the height of ingratitude if a sausage calls a pig a pig&quot;</em>" %}
