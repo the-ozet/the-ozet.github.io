@@ -15,7 +15,7 @@ Ontological-Hysteric Theater, Listen/Space, Cousin Dave's House, Incubator Arts 
 
 A collection of performances over the years.
 
-OZETset (2013); [The] servant (cleaning up in the next room) cannot make music. (2013); OZET Katorga Workshop #2: Retraction Holiday (2012); OZET Drinking Ritual (2012); OZET Katorga Workshop #1 (2012); OZET Band: Premier (2011); The Smuggler • OZET Generation: 19 (2011); LULLABY (2009); there's a distance at which control returns to us (2008)
+OZETset (2013); [The] servant (cleaning up in the next room) cannot make music. (2013); OZET Katorga Workshop #2: Retraction Holiday (2012); OZET Drinking Ritual (2012); OZET Katorga Workshop #1 (2012); OZET Band: Premier (2011); The Smuggler • OZET Generation: 19 (2011); LULLABY (2009)
 
 {% include materials.md %}
 
