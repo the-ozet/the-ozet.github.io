@@ -1,9 +1,9 @@
 ---
-title: Texts
-category: texts
+title: Scores
+category: Scores
 ---
 
-## Texts
+## Scores
 
 <div id="scores-list">
   {% for score in site.scores %}
