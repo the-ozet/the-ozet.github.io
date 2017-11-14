@@ -2,7 +2,7 @@
 
 {% for score in site.scores %}
 {% if score.work == page.title %}
-#### [{{score.title}}](/assets/scores/{{score.score}})
+#### [{{score.title}} (score)](/assets/scores/{{score.score}})
 {% endif %}
 {% endfor %}
 

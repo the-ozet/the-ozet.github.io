@@ -1,6 +1,6 @@
 ---
 category: Scores
-title: Alberts I-V Score
+title: Alberts I-V
 work: Alberts I-V
 date: 2010-08-05
 year: 2010

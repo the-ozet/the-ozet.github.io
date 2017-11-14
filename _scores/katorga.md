@@ -1,6 +1,6 @@
 ---
 category: Scores
-title: Katorga Score
+title: Katorga
 work: Katorga
 score: katorga.pdf
 date: 2014-06-24
