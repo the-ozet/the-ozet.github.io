@@ -1,6 +1,6 @@
 ---
 category: Scores
-title: Either Willingly or Otherwise (Linearity Score of 2189)
+title: Either Willingly or Otherwise - Linearity Score of 2189
 work: Various Work
 date: 2014-11-23
 year: 2014
