@@ -1,11 +1,11 @@
 ---
 main_img: "Bernal_scn8d.jpg"
 category: Works
-title: Bernal Project
+title: Origins of OZET
 date: 2007-08-08
 year: 2007-2008
 ---
-## Bernal Project
+## {{ page.title }}
 
 2007-2008
 
@@ -15,9 +15,9 @@ Rattlestick Theater, Ontological-Hysteric Theater
 
 ### Summary
 
-The origins of OZET: early explorations of the melodic structure. These "Bernal Project" pieces integrated ideas and text by Carl Sagan, Karl Kraus, Mark Kurlansky, Barbara Rosenwein, and Peter Singer.
+The origins of OZET: early explorations of the melodic structure. The "Bernal Project" pieces integrated ideas and text by Carl Sagan, Karl Kraus, Mark Kurlansky, Barbara Rosenwein, and Peter Singer.  The final origin piece, "There's a distance…", included the first original text by Scott Blumenthal.
 
-Scene 5-7 (2008); Scene 8 (2008); Scene 2 (2007); Formula (2007)
+Formula (2007); Scene 2 (2007); Scene 8 (2008); Scene 5-7 (2008); There's a distance at which control returns to us (2008)
 
 ### Video
 
@@ -27,4 +27,4 @@ Scene 5-7 (2008); Scene 8 (2008); Scene 2 (2007); Formula (2007)
 
 ### Performers
 
-Alex Barreto (actor), Eric km Clark (violin), Kara Feely (actor), Travis Just (alto saxophone/clarinet), Aaron Meicht (trumpet), Seth Meicht (tenor saxophone/clarinet), James Moore (electric guitar/acoustic guitar), Quentin Tolimieri (keyboards/chimes), Harris Wulfson (violin/acoustic guitar)
+Alex Barreto (actor), Scott Blumenthal (actor), Eric km Clark (violin), Kara Feely (actor), Travis Just (alto saxophone/clarinet), Aaron Meicht (trumpet), Seth Meicht (tenor saxophone/clarinet), James Moore (electric guitar/acoustic guitar), Quentin Tolimieri (keyboards/chimes), Harris Wulfson (violin/acoustic guitar)
