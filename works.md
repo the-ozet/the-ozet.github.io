@@ -26,7 +26,7 @@ title: "Works"
       return (a.date > b.date) ? 1 : -1;
     }).reverse()
 
-    OZET.filter(revCronWorks, '#works-list', (item, el) => {
+    OZET.filter(revCronWorks.slice(1), '#works-list', (item, el) => {
       return $(el).attr('title') === item.title
     })
 
