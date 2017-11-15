@@ -11,26 +11,25 @@
       let OZET = window.OZET || {};
 
       OZET.WORKS = [{% for work in site.works %}{
-        title: '{{work.title}}',
+        title: "{{work.title}}",
         date: '{{work.date}}',
         subcategory: '{{work.subcategory}}'
       },{% endfor %}]
 
       OZET.SCORES = [{% for score in site.scores %}{
-        title: '{{score.title}}',
-        work: '{{score.work}}',
+        title: "{{score.title}}",
+        work: "{{score.work}}",
         score: '{{score.score}}',
         date: '{{work.date}}'
       },{% endfor %}]
 
       OZET.TEXTS = [{% for text in site.texts %}{
-        title: '{{text.title}}',
+        title: "{{text.title}}",
         date: '{{work.date}}',
-        work: '{{text.work}}'
+        work: "{{text.work}}"
       },{% endfor %}]
 
     })()
-    window.WORKS = [{% for work in site.works %}{ title: '{{work.title}}', date: '{{work.date}}' },{% endfor %}]
   </script>
 
   <meta charset="UTF-8">
