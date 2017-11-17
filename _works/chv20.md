@@ -17,6 +17,8 @@ On the eve of the Festival of the Fifteenth Generation, the Pioneers of Village 
 
 CVH20 was inspired in equal parts by images from the Romanian Revolution, the writings of J.D. Bernal, the life and music of Woody Guthrie, and the creators' years as participant-observers in the local scene at the 80-year-old Washington Heights watering hole Reynold's Cafe. 
 
+{% include materials.md %}
+
 ### Video
 
 {% include video.html video_id="kbhmhsz7pJI" title="An Ode to Our Travellers of the Constellations" description="<em>Carina slices into the sea of space<br>among the shining spray of stars am I</em>" %}
