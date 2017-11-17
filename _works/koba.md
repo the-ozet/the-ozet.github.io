@@ -15,6 +15,8 @@ Ontological-Hysteric Theater
 
 A spec-fic mystery with Soviet overtones for seven musicians and three actors. After the break, a rock band performs official and unofficial selections from the OZET Songbook.
 
+{% include materials.md %}
+
 ### Video
 
 {% include video.html video_id="Hvlr8dPhiZk" title="Koba: Scene 4 & 5" description="ENDZELA: <em>Go home, Koba.  You're in way over your head.</em>" %}
