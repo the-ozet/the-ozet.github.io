@@ -17,7 +17,7 @@ sass:
 
 collections:
   posts:
-    permalink: log
+    output: true
   works:
     output: true
     permalink: /works/:path/

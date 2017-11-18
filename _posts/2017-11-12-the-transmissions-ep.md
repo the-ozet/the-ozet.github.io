@@ -5,6 +5,8 @@ categories: log
 ---
 ## The Transmissions EP
 
+November 12, 2017
+
 The release of "The Transmissions EP" marks the beginning of our OZET 10th anniversary celebration.
 
 For the next year, we'll be cataloging and resurfacing our scores, films, scripts, recordings, performance footage, software, photos, and other ephemera.  We'll put out new and unreleased work.  And we'll continue developing and looking forward to a production of of OoRT, our next evening-length live piece.
