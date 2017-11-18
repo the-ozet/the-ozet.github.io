@@ -7,6 +7,11 @@ year: 2010
 ---
 ## Alberts I-V
 
+### Dates
+
+August 5-8, 2010
+7pm
+
 ### Location
 
 HERE
