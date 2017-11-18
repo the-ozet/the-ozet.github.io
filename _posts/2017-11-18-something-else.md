@@ -1,6 +1,6 @@
 ---
-title:  "The Transmissions EP"
-date:   2017-11-12
+title:  "Something Else"
+date:   2017-11-18
 categories: log
 ---
 ## {{ page.title }}
