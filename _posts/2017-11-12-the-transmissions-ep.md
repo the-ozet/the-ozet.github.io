@@ -15,7 +15,7 @@ Over the next year we'll be cataloging and resurfacing our scores, films, script
 
 ### About the Transmissions
 
-In November 2010, Aaron was in the middle of a hectic stretch of work, composing and designing sound for plays across the country with Daniel Baker (as [Broken Chord](http://brokenchord.us/)).  Aaron and Scott had been making OZET pieces for almost three and a half years, but five months had passed since their last piece, [*Alberts I-V*](/works/alberts/).  Aaron, Scott, and Daniel were playing around with the idea of forming an OZET Band.  Aaron's son, Leon, was two months old.
+In November 2010, Aaron was in the middle of a hectic stretch of work, composing and designing sound for plays across the country with Daniel Baker (as [Broken Chord](http://brokenchord.us/)).  Aaron and Scott had been making OZET pieces for almost three and a half years, but three months had passed since their last piece, [*Alberts I-V*](/works/alberts/).  Aaron, Scott, and Daniel were playing around with the idea of forming an OZET Band.  Aaron's son, Leon, was two months old.
 
 On the 22nd Aaron bought his first life insurance policy, came home, and recorded a [short instrumental track](https://soundcloud.com/on_the_ozet/t-1002-11-22?in=on_the_ozet/sets/ozet-music-transmissions) in his apartment in Washington Heights.
 
