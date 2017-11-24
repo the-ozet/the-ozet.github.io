@@ -9,7 +9,7 @@ category: Music
   <div class="row" title="{{music.title}}">
     <div class="col-sm-12">
       <h3>
-        <a href="{{music.url}}">{{music.title}}</a>
+        <a href="{{music.externalurl}}">{{music.title}}</a>
       </h3>
       <span>{{music.year}}</span>
       {% if music.playlistid %}

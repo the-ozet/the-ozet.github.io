@@ -4,7 +4,7 @@ title: Transmissions
 date: 2010-11-22
 year: 2010
 linktype: playlist
-url: "https://soundcloud.com/on_the_ozet/sets/ozet-music-transmissions"
+externalurl: "https://soundcloud.com/on_the_ozet/sets/ozet-music-transmissions"
 playlistid: 111555605
 ---
 

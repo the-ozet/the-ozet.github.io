@@ -4,7 +4,7 @@ title: Common Hall Village 20 Sketches
 date: 2012-01-26
 year: 2012
 linktype: playlist
-url: "https://soundcloud.com/on_the_ozet/sets/common-hall-village-20-sketches"
+externalurl: "https://soundcloud.com/on_the_ozet/sets/common-hall-village-20-sketches"
 playlistid: 382449497
 ---
 
