@@ -17,12 +17,7 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
 
 {% include materials.md %}
 
-### Video
-
-{% include video.html video_id="Hvlr8dPhiZk" title="Koba: Scene 4 & 5" description="ENDZELA: <em>Go home, Koba.  You're in way over your head.</em>" %}
-{% include video.html video_id="zUAfvb9g584" title="Koba: Scene 3" description="<em>Work Task 5. Play this.</em>" %}
-{% include video.html video_id="UChkmXJFBUk" title="OZET Songbook: When My Children Arrive" description="<em>They'll be born on that river<br>who make it across<br>for that river's eight childhoods wide</em>" %}
-
+{% include videos.md %}
 
 ### Performers
 
@@ -41,6 +36,3 @@ Wil Smith: keyboards<br>
 ### Designers / Crew
 
 Broken Chord, Daniel Kluger: sound
-
-
-

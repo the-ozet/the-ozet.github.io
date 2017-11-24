@@ -10,7 +10,12 @@ category: Videos
     <iframe class="col-sm-6 col-xs-12" src="https://www.youtube.com/embed/{{ video.videoid }}" frameborder="0" allowfullscreen></iframe>
     <figcaption class="col-sm-6">
       <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
-      <p>{{ video.content }}</p>
+      {% if video.work %}
+      <span>From <em>{{video.work}}</em></span>
+      {% endif %}
+      <div class="caption">
+      {{ video.content }}
+      </div>
       </figcaption>
   </figure>
   {% endfor %}

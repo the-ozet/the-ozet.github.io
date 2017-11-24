@@ -82,14 +82,20 @@ body {
   }
 }
 
-.video {
+#main .video {
   margin-top: $pad;
+
+  h4 {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
 
   iframe {
     margin-bottom: $pad;
   }
 
-  figcaption {
+  figcaption .caption {
+    margin-top: 20px;
     font-size: 13px;
   }
 }

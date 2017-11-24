@@ -21,11 +21,7 @@ Formula (2007); Scene 2 (2007); Scene 8 (2008); Scene 5-7 (2008); There's a dist
 
 {% include materials.md %}
 
-### Video
-
-{% include video.html video_id="nUVoNRTCk8E" title="Excerpt from Scene 6" description="<em>&quot;It is the height of ingratitude if a sausage calls a pig a pig&quot;</em>" %}
-{% include video.html video_id="zSlfrsDEbVI" title="Excerpt 1 from Scene 8" description="<em>&quot;To be human is erroneous.&quot;</em>" %}
-{% include video.html video_id="f5-AKlXT3i8" title="Excerpt 2 from Scene 2" description="<em>&quot;The superman is a premature ideal, one that presupposes man.&quot;</em>" %}
+{% include videos.md %}
 
 ### Performers
 
