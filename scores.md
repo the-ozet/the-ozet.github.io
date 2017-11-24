@@ -13,7 +13,7 @@ category: Scores
         <a href="/assets/scores/{{score.score}}">{{score.title}}</a>
       </h3>
       {% if score.work %}
-      <span>From <em>{{score.work}}</em></span>, 
+      <span>From <em>{{score.work}}</em></span>,
       {% endif %}
       <span>{{score.year}}</span>
     </div>
@@ -30,7 +30,6 @@ category: Scores
     }).reverse()
 
     OZET.filter(revCron, '#scores-list', (item, el) => {
-      console.log('done', item, el)
       return $(el).attr('title') === item.title
     })
 
