@@ -85,6 +85,10 @@ body {
 .video {
   margin-top: $pad;
 
+  iframe {
+    margin-bottom: $pad;
+  }
+
   figcaption {
     font-size: 13px;
   }

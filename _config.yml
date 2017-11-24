@@ -26,6 +26,8 @@ collections:
     permalink: /about/:path/
   music:
     output: true
+  videos:
+    output: true
   texts:
     output: true
     permalink: /texts/:path/
