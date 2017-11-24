@@ -17,7 +17,7 @@ category: texts
       {% endif %}
       </h3>
       {% if text.work %}
-      <span>From <em>{{text.work}}</em></span><br/>
+      <span>From <em>{{text.work}}</em></span>, 
       {% endif %}
       <span>{{text.year}}</span>
     </div>
