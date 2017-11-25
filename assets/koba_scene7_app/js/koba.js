@@ -1,0 +1,23 @@
+var koba = [
+	"Chairman Bagrat.",
+	"I'm not here about Endzela.",
+	"I thought it was you who kicked me off the case.  But it wasn't.",
+	"I want to know who he was.  The stranger.",
+	"You're harvesting a little colony of silk worms down there, aren't you?  Pale, plump, hungry worms.",
+	"You thought you could take care of the problem yourself, didn't you, Chairman?  Be a hero.",
+	"You told Endzela your secret, didn't you?",
+	"Poor Utscha.",
+	"I know Utscha's face.  I looked into his dead eyes when we pulled him out of the stream, but I hadn't seen your face in years, so I couldn't be sure.  Look at you though.  You knew he was your father.  And you killed him anyway.",
+	"What I want to know is this: did you really have to kill him just because he took a walk in the woods?",
+	"Sloppy.  Very sloppy.",
+	"She has a name: Endzela.  Use it.",
+	"You're done, Bagrat.",
+	"I've sent letters to the other members of the council.  If half of what I wrote is true, they'll skewer you.",
+	"I had to walk a lot.  I went to the river... followed the towpath.  Then I saw footprints leading off into the forest.",
+	"I heard music... out there, in the middle of the forest.  It was coming from a kind of lean-to made out of sticks and blankets.",
+	"Endzela told Utscha about the people underground.  Utscha sold the story to me, though he got it a little bit wrong.  Then you found out that Utscha was talking.  And you couldn't let him keep talking.",
+	"A whole society, hiding just below us for fifteen generations, eating our food while we starve and wait.",
+	"How many people are living down there?",
+	"Nice tune.  Where have I heard that before?",
+	"Two bodies already.  Why did your guys let me live?  Why not three?"
+];

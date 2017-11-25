@@ -1,0 +1,21 @@
+var bagrat = [
+	"Detective.",
+	"Who let you in here?",
+	"She couldn't stand your drinking.",
+	"I don't know what you are talking about.",
+	"She's happy.  She's off the farm, out of the village, and away from you.  And I get a fuck whenever I need one.",
+	"I've earned the trust of the people.",
+	"Say what you like: the system works.  And no matter what you do, the system will survive.",
+	"You're paranoid, Koba.  You think I'd bother to send a couple of thugs to beat up an incompetent drunk like you?",
+	"If I have to break some teeth, I break some teeth.",
+	"Which of your drinking buddies told you that old rumor?",
+	"They never told me his name.  Just told me to find him, and I did.  But it was dark in the woods.  I stabbed him.  He hit me over the head with something.  I lost him.",
+	"What do you want from me?",
+	"Poor Utscha",
+	"What will you do?  Tell the people they've been tricked?  Are you going to be their savior, Koba?",
+	"Your profession just doesn't suit you, does it, Koba.  There must be something else you'd rather do.  Hm?",
+	"Clever, Koba.  I like that.  It almost sounds like the truth.",
+	"I thought you'd give up.  You always did before.",
+	"Village Twenty.  The ugliest village on the OZET, full of the ugliest people.  Wouldn't you agree?",
+	"Well, technically the others aren't living underground; they live above the sky-dome.  It's farther away from you peasants."
+];

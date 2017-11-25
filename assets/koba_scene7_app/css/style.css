@@ -1,0 +1,52 @@
+body {
+	font-size: 36px;
+	line-height: 1.5;
+	font-family: terminal, monospace;
+	height: 100%;
+}
+
+.bagrat {
+	background: #000;
+	color: #fff;
+}
+
+.koba {
+	background: #fff;
+	color: #000;
+}
+
+.actions {
+	background: #ccc;
+	color: #666;
+	font-style: italic;
+}
+
+.title {
+	background: #ccc;
+	color: #666;
+	font-size: 48px;
+	font-weight: bold;
+	font-family: "times new roman";
+}
+
+#main_container {
+	margin: 40px;
+	text-align: center;
+}
+
+#monitor {
+	min-height: 300px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	overflow: hidden;
+	font-size: 11px;
+	font-family: arial, helvetica;
+}
+
+#monitor ul {
+	float: left;
+	width: 250px;
+	border-right: 1px solid #666;
+	margin-right: 10px;
+}
