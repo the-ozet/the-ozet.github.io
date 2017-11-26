@@ -7,7 +7,7 @@ year: 2014
 videoid: ayrH2A1RVXc
 ---
 
-WOMAN: <em>I will become sclerotium: dormant until I can return a century or more for fire to initiate fruition.</em>
+As for me, she said, I shall be quite satisfied to leave a world where action is never sister of the dream.
 
 
 
