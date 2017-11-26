@@ -7,4 +7,4 @@ year: 2014
 videoid: GRsBWHgtl7Y
 ---
 
-THE WARDEN: <em>Take your harvest to the scale. Look around! Who can speak for her Cousins? You! To the scale! Now!</em>
+WARDEN: <em>Take your harvest to the scale. Look around! Who can speak for her Cousins? You! To the scale! Now!</em>
