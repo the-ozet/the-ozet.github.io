@@ -1,8 +1,8 @@
 ---
 category: Videos
-title: "100-Year-Old Man ChimeBox Movie + [The] servant (cleaning up in the next room) cannot make music."
+title: Drinking Ritual
 work: Various Work
-date: 2008-08-02
+date: 2012-10-21
 year: 2008-2013
 videoid: jFyXxg6OMS8
 ---
