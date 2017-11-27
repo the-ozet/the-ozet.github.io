@@ -1,8 +1,8 @@
 ---
 category: Videos
-title: "Bernal Project : excerpt from scene 5"
+title: "Bernal Project: from scene 5"
 work: Origins of OZET
-date: 2008-05-31
+date: 2008-05-09
 year: 2008
 videoid: Fm2_TH77rkU
 ---
