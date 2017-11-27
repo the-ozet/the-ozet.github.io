@@ -7,4 +7,4 @@ year: 2008
 videoid: nUVoNRTCk8E
 ---
 
-KARA/ALEX: <em>...back and forth insults & laughter: "You're a pig." The guitars bombard you.</em>
+KARA/ALEX: <em>...back and forth insults & laughter. "You're a pig." The guitars bombard you.</em>
