@@ -1,10 +1,10 @@
 ---
 category: Videos
-title: Excerpt from Scene 6
+title: "Bernal Project: from scene 6"
 work: Origins of OZET
-date: 2007-08-08
-year: 2007-2008
+date: 2008-05-09
+year: 2008
 videoid: nUVoNRTCk8E
 ---
 
-<em>&quot;It is the height of ingratitude if a sausage calls a pig a pig&quot;</em>
+KARA/ALEX: <em>...back and forth insults & laughter: "You're a pig." The guitars bombard you.</em>
