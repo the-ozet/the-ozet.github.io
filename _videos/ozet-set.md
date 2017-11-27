@@ -1,6 +1,6 @@
 ---
 category: Videos
-title: OzetSet: Silent Barn
+title: "OzetSet: Silent Barn"
 work: Various Work
 date: 2013-08-03
 year: 2013
