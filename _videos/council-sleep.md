@@ -1,6 +1,6 @@
 ---
 category: Videos
-title: "The Council Ends the Festival (Sleep Song)"
+title: The Council Ends the Festival
 work: Common Hall Village 20
 date: 2012-01-26
 year: 2012
