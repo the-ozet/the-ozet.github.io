@@ -1,9 +1,9 @@
 ---
 category: Videos
 title: "Katorga Retraction Holiday"
-work: Various Work
-date: 2008-08-02
-year: 2008-2013
+work: Katorga
+date: 2012-12-20
+year: 2012
 videoid: 20rdRL6R13w
 ---
 
