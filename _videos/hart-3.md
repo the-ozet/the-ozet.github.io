@@ -7,7 +7,4 @@ year: 2011
 videoid: 0RH6RTkAlxE
 ---
 
-The Smuggler
-Spider's Egg
-Did They See Us?
-OZET Protest Song (aka Milk Cow Song)
+The Smuggler<br>Spider's Egg<br>Did They See Us?<br>OZET Protest Song (aka Milk Cow Song)
