@@ -7,5 +7,5 @@ year: 2010
 videoid: Cre6R3gXHG8
 ---
 
-<em>The OZET pioneer (Albert 5) is shown exercising in rural Russia before joining the Space Program.</em>
+The OZET pioneer (Albert 5) is shown exercising in rural Russia before joining the Space Program.
 
