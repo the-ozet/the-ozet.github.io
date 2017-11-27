@@ -8,6 +8,6 @@ videoid: vJYJPc2R_BI
 ---
 
 LULLABY, Koba/OZET Songbook,<br>
-OZET Archival footage #20332-A, Leonid Pavlovich Titov,<br>
-Avram Selig Eichenbaum, Albert 2,<br>
-Alberts I-V, The Smuggler, OzetBand: Hart St. Concert
+OZET Archival footage #20332-A,<br>
+Albert 2, Avram and Leonid,<br>
+Alberts I-V, The Smuggler, Hart St.
