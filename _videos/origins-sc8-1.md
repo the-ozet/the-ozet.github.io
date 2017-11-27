@@ -1,9 +1,9 @@
 ---
 category: Videos
-title: Excerpt 1 from Scene 8
+title: "Bernal Project : excerpt 1 from scene 8"
 work: Origins of OZET
-date: 2007-08-08
-year: 2007-2008
+date: 2008-05-31
+year: 2008
 videoid: zSlfrsDEbVI
 ---
 
