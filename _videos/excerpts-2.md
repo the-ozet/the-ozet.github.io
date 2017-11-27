@@ -7,5 +7,4 @@ year: 2012
 videoid: daFEWUj798s
 ---
 
-Common Hall Village 20
-OZET Katorga Workshop #1
+Common Hall Village 20<br>OZET Katorga Workshop #1
