@@ -1,10 +1,10 @@
 ---
 category: Videos
-title: Excerpt 2 from Scene 2
+title: "Bernal Project: from scene 2 (pt.2)"
 work: Origins of OZET
-date: 2007-08-08
-year: 2007-2008
-videoid: AKlXT3i8
+date: 2007-12-03
+year: 2007
+videoid: f5-AKlXT3i8
 ---
 
-<em>&quot;The superman is a premature ideal, one that presupposes man.&quot;</em>
+<em>When the technicalities of space navigation are fully understood there will, from desire or necessity, come the idea of building a permanent home for men in space.</em>
