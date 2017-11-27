@@ -7,9 +7,4 @@ year: 2014
 videoid: wb1sjBZHiSM
 ---
 
-Katorga Workshop #1
-Drinking Ritual
-Katorga Workshop #2
-[The] servant (cleaning up in the next room) cannot make music.
-Katorga Workshop #3
-OZETset: Silent Barn
+Katorga Workshop #1-3<br>Drinking Ritual<br>[The] servant (cleaning up in the next room) cannot make music.<br>OZETset: Silent Barn
