@@ -7,6 +7,4 @@ year: 2011
 videoid: cq1B5o_3L8E
 ---
 
-Different Man
-t_2011_7_9-12
-You're Going
+Different Man<br>t_2011_7_9-12<br>You're Going
