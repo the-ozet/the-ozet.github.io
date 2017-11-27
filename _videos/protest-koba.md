@@ -1,6 +1,6 @@
 ---
 category: Videos
-title: "OZET Songbook: OZET Protest Song (AKA The Milk Cow Song)"
+title: "OZET Songbook: OZET Protest Song"
 work: Koba / OZET Songbook
 date: 2010-03-06
 year: 2010
