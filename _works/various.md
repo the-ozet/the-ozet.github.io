@@ -20,7 +20,3 @@ OZETset (2013); [The] servant (cleaning up in the next room) cannot make music. 
 {% include materials.md %}
 
 {% include videos.md %}
-
-### Performers
-
-Aaron Meicht, Scott Blumenthal, Daniel Baker, Paula Matthusen, Sean Hagerty
