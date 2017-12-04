@@ -19,7 +19,7 @@ CVH20 was inspired in equal parts by images from the Romanian Revolution, the wr
 
 {% include materials.md %}
 
-{% include videos.md %}
+{% include videos.html %}
 
 ### Performers
 

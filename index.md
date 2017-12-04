@@ -37,21 +37,14 @@ category: OZET
 </div>
 {% endfor %}
 </div>
-<script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-<script type="text/javascript">
-  (function() {
 
-    const revCronWorks = [...OZET.WORKS].sort(function(a, b) {
-      return (a.date > b.date) ? 1 : -1;
-    }).reverse()
+{% capture additional_js %}
+  //OZET.filter(revCronWorks.slice(0,3), '#latest-work', (item, el) => {
+  //  return $(el).attr('title') === item.title
+  //})
 
-    //OZET.filter(revCronWorks.slice(0,3), '#latest-work', (item, el) => {
-    //  return $(el).attr('title') === item.title
-    //})
-
-    OZET.filter(revCronWorks.slice(1), '.works-container', (item, el) => {
-      return $(el).attr('title') === item.title
-    })
-
-  })()
-</script>
+  filter(reverseCron(WORKS).slice(1), '.works-container', (item, el) => {
+    return $(el).attr('title') === item.title
+  })
+{% endcapture %}
+{% include categories.html works="true" additional_js=additional_js %}

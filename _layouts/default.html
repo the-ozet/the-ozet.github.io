@@ -3,35 +3,6 @@
 <head>
   <title>OZET</title>
   <link rel="stylesheet" type="text/css" href="/assets/stylesheets/styles.css" />
-  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-  <script type="text/javascript" src="/assets/javascripts/size-videos.js"></script>
-  <script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-  <script type="text/javascript">
-    (function() {
-      let OZET = window.OZET || {};
-
-      OZET.WORKS = [{% for work in site.works %}{
-        title: "{{work.title}}",
-        date: '{{work.date}}',
-        subcategory: '{{work.subcategory}}'
-      },{% endfor %}]
-
-      OZET.SCORES = [{% for score in site.scores %}{
-        title: "{{score.title}}",
-        work: "{{score.work}}",
-        score: '{{score.score}}',
-        date: '{{score.date}}'
-      },{% endfor %}]
-
-      OZET.TEXTS = [{% for text in site.texts %}{
-        title: "{{text.title}}",
-        date: '{{work.date}}',
-        work: "{{text.work}}"
-      },{% endfor %}]
-
-    })()
-  </script>
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>

@@ -21,24 +21,9 @@ category: Videos
   {% endfor %}
 </div>
 
-<script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-<script type="text/javascript">
-  (function() {
-
-    let OZET = window.OZET || {};
-
-    OZET.VIDEOS = [{% for video in site.videos %}{
-      title: "{{video.title}}",
-      date: '{{video.date}}'
-    },{% endfor %}]
-
-    const revCron = [...OZET.VIDEOS].sort(function(a, b) {
-      return (a.date > b.date) ? 1 : -1;
-    }).reverse()
-
-    OZET.filter(revCron, '#videos-list', (item, el) => {
-      return $(el).attr('title') === item.title
-    })
-
-  })()
-</script>
+{% capture additional_js %}
+  filter(reverseCron(VIDEOS), '#videos-list', (item, el) => {
+    return $(el).attr('title') === item.title
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}

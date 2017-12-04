@@ -21,7 +21,19 @@ Formula (2007); Scene 2 (2007); Scene 8 (2008); Scene 5-7 (2008); There's a dist
 
 {% include materials.md %}
 
-{% include videos.md %}
+{% include videos.html %}
+
+{% capture additional_js %}
+  const FEATURED = [
+    "Bernal Project: from scene 2 (pt.1)",
+    "Bernal Project: from scene 6"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
 
 ### Performers
 

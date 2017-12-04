@@ -27,24 +27,9 @@ category: Music
   {% endfor %}
 </div>
 
-<script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-<script type="text/javascript">
-  (function() {
-
-    let OZET = window.OZET || {};
-
-    OZET.MUSIC = [{% for music in site.music %}{
-      title: "{{music.title}}",
-      date: '{{music.date}}'
-    },{% endfor %}]
-
-    const revCron = [...OZET.MUSIC].sort(function(a, b) {
-      return (a.date > b.date) ? 1 : -1;
-    }).reverse()
-
-    OZET.filter(revCron, '#music-list', (item, el) => {
-      return $(el).attr('title') === item.title
-    })
-
-  })()
-</script>
+{% capture additional_js %}
+  filter(reverseCron(MUSIC), '#music-list', (item, el) => {
+    return $(el).attr('title') === item.title
+  })
+{% endcapture %}
+{% include categories.html music="true" additional_js=additional_js %}

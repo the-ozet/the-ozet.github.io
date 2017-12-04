@@ -23,7 +23,7 @@ Ten years before the historic launch of the Collective Sphere OZET, five men end
 
 {% include materials.md %}
 
-{% include videos.md %}
+{% include videos.html %}
 
 ### Performers
 

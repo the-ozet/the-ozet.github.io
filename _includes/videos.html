@@ -1,5 +1,14 @@
-### Videos
+<h3>Videos</h3>
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('.video iframe').each(function() {
+      $(this).height($(this).width() * (9/16));
+    })
+  });
+</script>
 
+<div id="works-videos">
 {% for video in site.videos %}
 {% if video.work == page.title %}
 <figure class="row video" title="{{video.title}}">
@@ -13,3 +22,4 @@
 </figure>
 {% endif %}
 {% endfor %}
+</div>

@@ -1,0 +1,68 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+  (function() {
+    const filter = (set, container, test) => {
+      let $container = $(container),
+          $orig = $container.children(),
+          filtered = set.reduce((memo, item) => {
+            let el = $orig.toArray().find((el) => test(item, el))
+            if (el) {
+              memo.push(el)
+            }
+            return memo;
+          }, [])
+
+      console.log($orig);
+
+      $container.empty().html(filtered)
+    }
+
+    const reverseCron = (set) => {
+      return [...set].sort(function(a, b) {
+        return (a.date > b.date) ? 1 : -1;
+      }).reverse()
+    }
+
+    {% if include.works %}
+    const WORKS = [{% for work in site.works %}{
+      title: "{{work.title}}",
+      date: '{{work.date}}',
+      subcategory: '{{work.subcategory}}'
+    },{% endfor %}]
+    {% endif %}
+
+    {% if include.scores %}
+    const SCORES = [{% for score in site.scores %}{
+      title: "{{score.title}}",
+      work: "{{score.work}}",
+      score: '{{score.score}}',
+      date: '{{score.date}}'
+    },{% endfor %}]
+    {% endif %}
+
+    {% if include.texts %}
+    const TEXTS = [{% for text in site.texts %}{
+      title: "{{text.title}}",
+      date: '{{work.date}}',
+      work: "{{text.work}}"
+    },{% endfor %}]
+    {% endif %}
+
+    {% if include.videos %}
+    const VIDEOS = [{% for video in site.videos %}{
+      title: "{{video.title}}",
+      date: '{{video.date}}'
+    },{% endfor %}]
+    {% endif %}
+
+    {% if include.music %}
+    const MUSIC = [{% for music in site.music %}{
+      title: "{{music.title}}",
+      date: '{{music.date}}'
+    },{% endfor %}]
+    {% endif %}
+
+    {{ include.additional_js }}
+
+  })()
+</script>

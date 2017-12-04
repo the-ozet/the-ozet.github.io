@@ -17,7 +17,7 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
 
 {% include materials.md %}
 
-{% include videos.md %}
+{% include videos.html %}
 
 ### Performers
 

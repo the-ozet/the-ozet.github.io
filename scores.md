@@ -21,18 +21,9 @@ category: Scores
   {% endfor %}
 </div>
 
-<script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-<script type="text/javascript">
-  (function() {
-
-    const revCron = [...OZET.SCORES].sort(function(a, b) {
-      return (a.date > b.date) ? 1 : -1;
-    }).reverse()
-
-    OZET.filter(revCron, '#scores-list', (item, el) => {
-      return $(el).attr('title') === item.title
-    })
-
-
-  })()
-</script>
+{% capture additional_js %}
+  filter(reverseCron(SCORES), '#scores-list', (item, el) => {
+    return $(el).attr('title') === item.title
+  })
+{% endcapture %}
+{% include categories.html scores="true" additional_js=additional_js %}

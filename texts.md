@@ -17,7 +17,7 @@ category: texts
       {% endif %}
       </h3>
       {% if text.work %}
-      <span>From <em>{{text.work}}</em></span>, 
+      <span>From <em>{{text.work}}</em></span>,
       {% endif %}
       <span>{{text.year}}</span>
     </div>
@@ -25,17 +25,9 @@ category: texts
   {% endfor %}
 </div>
 
-<script type="text/javascript" src="/assets/javascripts/filter.js"></script>
-<script type="text/javascript">
-  (function() {
-
-    const revCron = [...OZET.TEXTS].sort(function(a, b) {
-      return (a.date > b.date) ? 1 : -1;
-    }).reverse()
-
-    OZET.filter(revCron, '#texts-list', (item, el) => {
-      return $(el).attr('title') === item.title
-    })
-
-  })()
-</script>
+{% capture additional_js %}
+  filter(reverseCron(TEXTS), '#texts-list', (item, el) => {
+    return $(el).attr('title') === item.title
+  })
+{% endcapture %}
+{% include categories.html texts="true" additional_js=additional_js %}
