@@ -19,7 +19,7 @@ title: "Works"
 </div>
 
 {% capture additional_js %}
-  filter(reverseCron(WORKS).slice(1), '#works-list', (item, el) => {
+  let $holder = filter(reverseCron(WORKS).slice(1), '#works-list', (item, el) => {
     return $(el).attr('title') === item.title
   })
 {% endcapture %}

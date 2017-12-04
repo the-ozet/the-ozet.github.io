@@ -1,9 +1,15 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script type="text/javascript">
   (function() {
+
+    const Filterable = function() {
+      
+    }
+
     const filter = (set, container, test) => {
       let $container = $(container),
           $orig = $container.children(),
+          $holder = $('<div></div>').html($container.html()),
           filtered = set.reduce((memo, item) => {
             let el = $orig.toArray().find((el) => test(item, el))
             if (el) {
@@ -12,9 +18,8 @@
             return memo;
           }, [])
 
-      console.log($orig);
-
       $container.empty().html(filtered)
+      return $holder;
     }
 
     const reverseCron = (set) => {
