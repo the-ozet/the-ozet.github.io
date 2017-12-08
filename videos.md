@@ -21,6 +21,7 @@ category: Videos
   {% endfor %}
 </div>
 
+{% include videos.html %}
 {% capture additional_js %}
   filter(reverseCron(VIDEOS), '#videos-list', (item, el) => {
     return $(el).attr('title') === item.title
