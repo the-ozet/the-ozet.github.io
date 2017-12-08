@@ -8,8 +8,8 @@ category: OZET
 <h2 class="hp-title">Latest</h2>
 <div class="row" id="latest-work">
   <div class="new-work col-md-6 col-xs-12">
-    <a href="#" class="main-image" style="background-image:url(/assets/images/transmissions.jpg)"></a>
-    <h3><a href="#">The Transmissions EP</a></h3>
+    <a href="/music.html" class="main-image" style="background-image:url(/assets/images/transmissions.jpg)"></a>
+    <h3><a href="/music.html">The Transmissions EP</a></h3>
   </div>
   <div class="new-work col-md-6 col-xs-12">
     <a href="/works/oort" class="main-image" style="background-image:url(/assets/images/OoRT_3.jpg)"></a>
