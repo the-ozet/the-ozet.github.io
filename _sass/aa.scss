@@ -122,51 +122,51 @@ h4 {
 }
 
 #latest-work {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  position: relative;
+  // display: flex;
+  // flex-direction: row;
+  // flex-wrap: wrap;
+  // position: relative;
+  // justify-content: space-between;
   margin-bottom: $pad;
 
+  &.up-2 .new-work {
+    // width: 45%;
+  }
+
   .new-work {
-    width: 33.3%;
+
     height: 200px;
     margin: 0 auto;
     position: relative;
-    background: #fff;
     overflow: hidden;
+    margin-bottom: $pad;
 
-    h3 {
-      position: absolute;
-      left: 10px;
-      top: 10px;
-      color: #fff;
-      position: 200;
-      display: none;
+    .main-image {
+      width: 100%;
+      height: 200px;
+      display: block;
+      background-size: cover;
+      background-position: center;
     }
 
-    img {
+    h3 a {
       position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      position: 100;
+      left: 30px;
+      bottom: 10px;
+      color: #fff;
+      position: 200;
+      font-size: 28px;
+      font-weight: bold;
     }
 
     &:hover {
-      width: calc(100% - 30px);
-      margin-left: 15px;
-      box-sizing: border-box;
-      position: absolute;
-      z-index: 100;
-      top: 0;
-      left: 0;
-
-      h3 {
-        display: block;
-        font-size: 24px;
-        font-weight: bold;
-      }
+      // width: calc(100% - 30px);
+      // margin-left: 15px;
+      // box-sizing: border-box;
+      // position: absolute;
+      // z-index: 100;
+      // top: 0;
+      // left: 0;
     }
 
     p {
@@ -183,4 +183,8 @@ h4 {
   h3 {
     margin-bottom: 1em;
   }
+}
+
+.music-row p {
+  max-width: 500px;
 }

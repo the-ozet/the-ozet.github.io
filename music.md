@@ -7,11 +7,12 @@ category: Music
 <div id="music-list">
   {% for music in site.music %}
   <div class="row" title="{{music.title}}">
-    <div class="col-sm-12">
+    <div class="col-sm-12 music-row">
       <h3>
         <a href="{{music.externalurl}}">{{music.title}}</a>
       </h3>
-      <span>{{music.year}}</span>
+      <p>{{music.year}}</p>
+      {{music.content}}
       {% if music.playlistid %}
       <div class="playlist-embed">
         <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ music.playlistid}}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>

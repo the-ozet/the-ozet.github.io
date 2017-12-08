@@ -4,22 +4,19 @@ category: OZET
 
 **OZET** is an ongoing artistic collaboration that encompasses a variety of live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
 
-<!--
+
 <h2 class="hp-title">Latest</h2>
-<div class="row">
-  <div id="latest-work" class="col-sm-12">
-    {% for work in site.works %}
-    <div class="new-work" title="{{work.title}}">
-      <a href="{{work.url}}" className="main-image">
-        <img src="/assets/images/{{work.main_img}}"/>
-      </a>
-      <h3><a href="{{work.url}}">{{work.title}}</a></h3>
-    </div>
-    {% endfor %}
+<div class="row" id="latest-work">
+  <div class="new-work col-md-6 col-xs-12">
+    <a href="#" class="main-image" style="background-image:url(/assets/images/transmissions.jpg)"></a>
+    <h3><a href="#">The Transmissions EP</a></h3>
+  </div>
+  <div class="new-work col-md-6 col-xs-12">
+    <a href="/works/oort" class="main-image" style="background-image:url(/assets/images/OoRT_3.jpg)"></a>
+    <h3><a href="/works/oort">OoRT</a></h3>
   </div>
 </div>
 <h2 class="hp-title">Previous</h2>
--->
 
 
 <div class="works-container">
@@ -39,11 +36,7 @@ category: OZET
 </div>
 
 {% capture additional_js %}
-  //OZET.filter(revCronWorks.slice(0,3), '#latest-work', (item, el) => {
-  //  return $(el).attr('title') === item.title
-  //})
-
-  filter(reverseCron(WORKS).slice(1), '.works-container', (item, el) => {
+  filter(reverseCron(WORKS).slice(2), '.works-container', (item, el) => {
     return $(el).attr('title') === item.title
   })
 {% endcapture %}
