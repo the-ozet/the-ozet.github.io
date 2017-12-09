@@ -8,4 +8,4 @@ externalurl: "https://soundcloud.com/on_the_ozet/sets/alberts-i-v-sketches"
 playlistid: 382503578
 ---
 
-This is some basic boilerplate about the score.  Maybe we want it, maybe we don't.
+Sketches of the music from the 2010 production of <em>Alberts I-V</em>.
