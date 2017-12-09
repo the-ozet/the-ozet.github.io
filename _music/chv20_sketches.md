@@ -8,4 +8,4 @@ externalurl: "https://soundcloud.com/on_the_ozet/sets/common-hall-village-20-ske
 playlistid: 382449497
 ---
 
-This is some basic boilerplate about the score.  Maybe we want it, maybe we don't.
+Sketches of the music for the 2012 production of <em>Common Hall Village 20</em>.
