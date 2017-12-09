@@ -8,4 +8,4 @@ externalurl: "https://soundcloud.com/on_the_ozet/sets/katorga-sketches"
 playlistid: 382446056
 ---
 
-This is some basic boilerplate about the score.  Maybe we want it, maybe we don't.
+Sketches of the music from the 2014 production of <em>Katorga</em>.
