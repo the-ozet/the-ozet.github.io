@@ -8,4 +8,4 @@ externalurl: "https://soundcloud.com/on_the_ozet/sets/ozet-music-transmissions"
 playlistid: 111555605
 ---
 
-This is some basic boilerplate about the score.  Maybe we want it, maybe we don't.
+Selections from the over 130 transmissions composed from 2010 to today.
