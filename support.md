@@ -4,18 +4,7 @@ catgory: Support
 
 ## Support OZET
 
-Here is some text.  Please support us by going to our [support page](https://www.fracturedatlas.org/site/fiscal/profile?id=180) on Fractured Atlas.
-
-#### Current collaborators
-
-* Brendan Dougherty
-* Thomas Dunn
-* Kathleen Geldard
-* Paula Matthusen
-* Matt Mitchell
-* Jesse Perez
-* Britt Plunkett
-* Dan Scully
+Thanks to the generous supporters and collaborators listed below we have created the OZET.  We are always working on something new.  Please support future projects by going to our [support page](https://www.fracturedatlas.org/site/fiscal/profile?id=180) on Fractured Atlas.
 
 #### Past collaborators
 
@@ -23,7 +12,10 @@ Here is some text.  Please support us by going to our [support page](https://www
 * Jayce Bartok
 * Matt Bauder
 * Eric km Clark
+* Brendan Dougherty
+* Thomas Dunn
 * Kara Feely
+* Kathleen Geldard
 * Dave Hopkins
 * LeeAnne Hutchinson
 * Darius Jones
@@ -31,10 +23,15 @@ Here is some text.  Please support us by going to our [support page](https://www
 * Andres Karu
 * Anya Klepikov
 * Daniel Kluger
+* Paula Matthusen
 * Seth Meicht
+* Matt Mitchell
 * James Moore
+* Jesse Perez
+* Britt Plunkett
 * Mike Pride
 * Steven Rattazzi
+* Dan Scully
 * Josh Sinton
 * Wil Smith
 * Brendan Spieth
@@ -78,9 +75,11 @@ Here is some text.  Please support us by going to our [support page](https://www
 * Gerry and Sue Morel
 * Brett Morel
 * Ken Morel
+* Valerie Morel
 * Janice Painter
 * Nick Patterson
 * David and Margaret Reuther
+* Kate Reuther
 * Ilmars and Barbara Ritins
 * Wayne and Teresa Rothermel
 * Phillip Schanely
