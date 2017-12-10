@@ -11,11 +11,13 @@ Thanks to the generous supporters and collaborators listed below we have created
 * Alex Barreto
 * Jayce Bartok
 * Matt Bauder
+* Becky Baumwoll
 * Eric km Clark
 * Brendan Dougherty
 * Thomas Dunn
 * Kara Feely
 * Kathleen Geldard
+* Alex Harbaugh
 * Dave Hopkins
 * LeeAnne Hutchinson
 * Darius Jones
@@ -27,10 +29,12 @@ Thanks to the generous supporters and collaborators listed below we have created
 * Seth Meicht
 * Matt Mitchell
 * James Moore
+* Phillip Scott Peglow
 * Jesse Perez
 * Britt Plunkett
 * Mike Pride
 * Steven Rattazzi
+* Stuart Rudin
 * Dan Scully
 * Josh Sinton
 * Wil Smith
