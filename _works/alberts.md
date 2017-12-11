@@ -25,6 +25,19 @@ Ten years before the historic launch of the Collective Sphere OZET, five men end
 
 {% include videos.html %}
 
+{% capture additional_js %}
+  const FEATURED = [
+    "Excerpts from Alberts I-V",
+    "OZET Archival Footage #20332-A",
+    "Birds in Boxes"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
+
 ### Performers
 
 Scott Blumenthal: acting, guitar<br>
