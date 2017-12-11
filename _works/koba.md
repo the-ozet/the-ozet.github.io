@@ -19,6 +19,19 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
 
 {% include videos.html %}
 
+{% capture additional_js %}
+  const FEATURED = [
+    "Koba: Scene 3",
+    "Koba: Scene 7",
+    "Koba: Scene 4 & 5"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
+
 ### Performers
 
 Matt Bauder: tenor sax<br>
