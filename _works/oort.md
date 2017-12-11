@@ -24,3 +24,15 @@ OoRT will portray a morning, late in the 22nd Generation. OZET has grown cold, t
 The five sections of OoRT alternate between music and theatrical performance: sections one and five are music only, two and four play out as somewhat conventional scenes, and section three combines both.  Musicians and actors share the stage throughout the piece, but exist in different -- if slightly porous -- realities.
 
 {% include materials.md %}
+
+{% capture additional_js %}
+  const FEATURED = [
+    "OoRT Prologue Trailer",
+    "OoRT Cake Recipe Film"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
