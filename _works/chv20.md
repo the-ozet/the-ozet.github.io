@@ -21,6 +21,19 @@ CVH20 was inspired in equal parts by images from the Romanian Revolution, the wr
 
 {% include videos.html %}
 
+{% capture additional_js %}
+  const FEATURED = [
+    "Festival Broadcast",
+    "An Ode to Our Travellers of the Constellations",
+    "The Good Wishes and Wisdom of a High Member of the Grand Council"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
+
 ### Performers
 
 DZIDZIA ... Liesl Tommy<br>
