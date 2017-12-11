@@ -25,6 +25,8 @@ The five sections of OoRT alternate between music and theatrical performance: se
 
 {% include materials.md %}
 
+{% include videos.html %}
+
 {% capture additional_js %}
   const FEATURED = [
     "OoRT Prologue Trailer",
