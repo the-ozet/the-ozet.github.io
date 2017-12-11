@@ -24,7 +24,8 @@ KATORGA revolves around the experiences of a woman exiled to OZET’s prison col
   const FEATURED = [
     "OZET: Katorga [section 1]",
     "OZET: Katorga [section 4c]",
-    "OZET: Katorga [section 7 & 8]"
+    "OZET: Katorga [section 7 & 8]",
+    "Katorga Retraction Holiday"
   ]
   filter(FEATURED, '#works-videos', (item, el) => {
     return $(el).attr('title') == item
