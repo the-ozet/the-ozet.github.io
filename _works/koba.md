@@ -23,7 +23,8 @@ A spec-fic mystery with Soviet overtones for seven musicians and three actors. A
   const FEATURED = [
     "Koba: Scene 3",
     "Koba: Scene 7",
-    "Koba: Scene 4 & 5"
+    "Koba: Scene 4 & 5",
+    "OZET Songbook: OZET Protest Song"
   ]
   filter(FEATURED, '#works-videos', (item, el) => {
     return $(el).attr('title') == item
