@@ -23,6 +23,8 @@ OoRT will portray a morning, late in the 22nd Generation. OZET has grown cold, t
 
 The five sections of OoRT alternate between music and theatrical performance: sections one and five are music only, two and four play out as somewhat conventional scenes, and section three combines both.  Musicians and actors share the stage throughout the piece, but exist in different -- if slightly porous -- realities.
 
+In January of 2017 we produced <em>OoRT Prologue: Seed Silent in the Field</em>, as a part of The Exponential Festival at Vital Joint.  The Prologue was a theatrical-musical ritual, portraying the role of the Cousins of Village 4 maintaining the fragile gift economy of OZET's 22nd Generation.  Onions, beets, plum brandy, sheep.
+
 {% include materials.md %}
 
 {% include videos.html %}
