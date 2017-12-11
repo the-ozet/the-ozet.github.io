@@ -20,3 +20,17 @@ OZETset (2013); [The] servant (cleaning up in the next room) cannot make music. 
 {% include materials.md %}
 
 {% include videos.html %}
+
+{% capture additional_js %}
+  const FEATURED = [
+    "100-Year-Old Man ChimeBox Movie + [The] servant (cleaning up in the next room) cannot make music.",
+    "Drinking Ritual",
+    "The Smuggler (OZET Generation: 19)",
+    "Generation 6 Infinity Song no.2714"
+  ]
+  filter(FEATURED, '#works-videos', (item, el) => {
+    return $(el).attr('title') == item
+  })
+{% endcapture %}
+{% include categories.html videos="true" additional_js=additional_js %}
+
