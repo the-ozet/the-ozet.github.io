@@ -7,7 +7,9 @@ category: Videos
 <div id="videos-list">
   {% for video in site.videos %}
   <figure class="row video" title="{{video.title}}">
-    <iframe class="col-sm-6 col-xs-12" src="https://www.youtube.com/embed/{{ video.videoid }}" frameborder="0" allowfullscreen></iframe>
+    <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}">
+      <div style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
+    </div>
     <figcaption class="col-sm-6">
       <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
       {% if video.work %}

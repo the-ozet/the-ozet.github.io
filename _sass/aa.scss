@@ -90,8 +90,17 @@ body {
     margin-top: 0;
   }
 
-  iframe {
+  iframe,
+  .vid-thumb {
+    display: block;
     margin-bottom: $pad;
+  }
+
+  .vid-thumb div {
+      width: 100%;
+      height: 100%;
+      background-size: 100%;
+      background-position: center;
   }
 
   figcaption .caption {

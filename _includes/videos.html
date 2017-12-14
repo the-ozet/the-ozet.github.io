@@ -2,8 +2,16 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function() {
-    $('.video iframe').each(function() {
-      $(this).height($(this).width() * (9/16));
+    var insertVideo = function($img, height) {
+      var $iframe = $('<iframe class="col-sm-6 col-xs-12" src="' + $img.data('video') + '" frameborder="0" allowfullscreen style="height: '+ height +'px"></iframe>')
+      $img.replaceWith($iframe);
+    }
+
+    $('.vid-thumb').each(function() {
+      var $img = $(this),
+          height = $img.width() * (9/16);
+          console.log($img);
+      $img.height(height).on('click', function() { insertVideo($img, height) });
     })
   });
 </script>
@@ -12,7 +20,9 @@
 {% for video in site.videos %}
 {% if video.work == page.title %}
 <figure class="row video" title="{{video.title}}">
-  <iframe class="col-sm-6 col-xs-12" src="https://www.youtube.com/embed/{{ video.videoid }}" frameborder="0" allowfullscreen></iframe>
+  <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}">
+    <div style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
+  </div>
   <figcaption class="col-sm-6">
     <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
     <div class="caption">
