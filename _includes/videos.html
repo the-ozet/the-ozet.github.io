@@ -10,7 +10,6 @@
     $('.vid-thumb').each(function() {
       var $img = $(this),
           height = $img.width() * (9/16);
-          console.log($img);
       $img.height(height).on('click', function() { insertVideo($img, height) });
     })
   });
@@ -20,9 +19,7 @@
 {% for video in site.videos %}
 {% if video.work == page.title %}
 <figure class="row video" title="{{video.title}}">
-  <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}">
-    <div style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
-  </div>
+  <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}" style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
   <figcaption class="col-sm-6">
     <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
     <div class="caption">

@@ -3,7 +3,8 @@ title: Videos
 category: Videos
 ---
 
-## Videos
+{% include videos.html %}
+
 <div id="videos-list">
   {% for video in site.videos %}
   <figure class="row video" title="{{video.title}}">
@@ -23,10 +24,23 @@ category: Videos
   {% endfor %}
 </div>
 
-{% include videos.html %}
+
 {% capture additional_js %}
   filter(reverseCron(VIDEOS), '#videos-list', (item, el) => {
     return $(el).attr('title') === item.title
   })
+
+  var vidList = $('#videos-list'),
+      FEATURED = [
+        'OZET Protest Song (AKA The Milk Cow Song) - Group 5643',
+        'OZET: Katorga [section 4c]'
+      ];
+
+  for (var i = FEATURED.length - 1; i >= 0; i--) {
+    var $found = $('.video').filter(function() {
+      return $(this).attr('title') == FEATURED[i]
+    });
+    vidList.prepend($found);
+  }
 {% endcapture %}
 {% include categories.html videos="true" additional_js=additional_js %}
