@@ -32,8 +32,11 @@ category: Videos
 
   var vidList = $('#videos-list'),
       FEATURED = [
-        'OZET Protest Song (AKA The Milk Cow Song) - Group 5643',
-        'OZET: Katorga [section 4c]'
+        'OZET: Katorga [section 1]',
+        '100-Year-Old Man ChimeBox Movie + [The] servant (cleaning up in the next room) cannot make music.',
+        'An Ode to Our Travellers of the Constellations',
+        'Katorga Retraction Holiday',
+        'OZET Archival Footage #20332-A'
       ];
 
   for (var i = FEATURED.length - 1; i >= 0; i--) {
