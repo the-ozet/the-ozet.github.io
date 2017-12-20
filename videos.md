@@ -11,7 +11,7 @@ category: Videos
     <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}">
       <div style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
     </div>
-    <figcaption class="col-sm-6">
+    <figcaption class="col-sm-6 col-xs-12">
       <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
       {% if video.work %}
       <span>From <em>{{video.work}}</em></span>
