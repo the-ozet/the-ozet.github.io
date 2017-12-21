@@ -12,7 +12,8 @@ category: log
       <h3>
         <a href="{{post.url}}">{{post.title}}</a>
       </h3>
-      <span>{{post.human_date}}</span>
+      <p>{{post.human_date}}</p>
+      <p>{{ post.summary }} <a href="{{post.url}}">[more]</a></p>
     </div>
   </div>
   {% endfor %}

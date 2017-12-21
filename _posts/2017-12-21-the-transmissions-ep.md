@@ -1,8 +1,9 @@
 ---
 title:  "The Transmissions EP"
-date:   2017-12-12
-human_date: December 12, 2017
+date:   2017-12-20
+human_date: December 20, 2017
 category: log
+summary: The release of "The Transmissions EP" marks the beginning of our OZET 10th anniversary celebration.
 ---
 ## {{ page.title }}
 
