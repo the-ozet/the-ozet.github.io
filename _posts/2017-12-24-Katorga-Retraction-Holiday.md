@@ -1,5 +1,5 @@
 ---
-title:  “The Katorga Holiday Hymn“
+title:  "The Katorga Holiday Hymn"
 date:   2017-12-24
 human_date: December 24, 2017
 category: log
