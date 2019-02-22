@@ -7,7 +7,7 @@ year: 2017
 ---
 ## OoRT
 
-TBA, 2018
+TBA
 
 ### Location
 
