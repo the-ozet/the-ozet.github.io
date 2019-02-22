@@ -31,6 +31,7 @@ In January of 2017 we produced <em>OoRT Prologue: Seed Silent in the Field</em>,
 
 {% capture additional_js %}
   const FEATURED = [
+    "OoRT Prologue: Seed Silent in the Field",
     "OoRT Prologue Trailer",
     "OoRT Cake Recipe Film"
   ]
