@@ -18,7 +18,7 @@ In August 2010, Aaron and Scott presented <i>Alberts I-V</i> at HERE. This theat
 
 <i>Common Hall Village 20</i> (January 2012) was an immersive, multimedia, performance featuring the OZET Band and a rotating cast of over twenty performers.
 
-The most recent piece, <i>Katorga</i> (June, 2014), was a tale of imprisonment and mushroom-hunting in the turgid, waning days of the Fifteenth Generation.
+The most recent major piece, <i>Katorga</i> (June, 2014), was a tale of imprisonment and mushroom-hunting in the turgid, waning days of the Fifteenth Generation.
 
-Aaron, Scott and longtime collaborator Daniel Baker also appear as OZET Band performing The OZET Songbook, a collection of songs written since 2009.
+Currently in development is our newest piece: <i>OoRT</i>. It is a theatrical-music work for five actors and five musicians.
 
