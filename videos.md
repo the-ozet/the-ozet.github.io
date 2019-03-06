@@ -32,6 +32,7 @@ category: Videos
 
   var vidList = $('#videos-list'),
       FEATURED = [
+        'Katorga: section 6',
         'OZET: Katorga [section 1]',
         '100-Year-Old Man ChimeBox Movie + [The] servant (cleaning up in the next room) cannot make music.',
         'An Ode to Our Travellers of the Constellations',
