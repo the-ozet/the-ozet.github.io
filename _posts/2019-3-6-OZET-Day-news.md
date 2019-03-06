@@ -1,7 +1,7 @@
 ---
 title:  "Happy OZET Day 2019: Some News"
 date:   2019-3-6
-human_date: March 6, 2016
+human_date: March 6, 2019
 category: log
 summary: 2019 OZET Day news.
 ---
