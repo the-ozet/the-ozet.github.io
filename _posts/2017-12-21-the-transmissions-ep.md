@@ -13,7 +13,7 @@ The release of "The Transmissions EP" marks the beginning of our OZET 10th anniv
 
 [Buy the Album on Bandcamp](https://ozet.bandcamp.com/album/the-transmissions-ep)
 
-or stream it anytime on your preferred platform: [Spotify](https://open.spotify.com/album/0UKmWjUHloyknGRrlle5mX),[Apple Music](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard),[iTunes](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard),[Google Play/YouTube](https://play.google.com/store/music/album/Ozet_The_Transmissions?id=Bamwtxvwhbdwbcafrv7h4kv356m),[Deezer](https://www.deezer.com/album/89510132)
+or stream it anytime on your preferred platform: [Spotify](https://open.spotify.com/album/0UKmWjUHloyknGRrlle5mX), [Apple Music](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard), [iTunes](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard), [Google Play/YouTube](https://play.google.com/store/music/album/Ozet_The_Transmissions?id=Bamwtxvwhbdwbcafrv7h4kv356m), [Deezer](https://www.deezer.com/album/89510132)
 
 ### About the Transmissions
 
