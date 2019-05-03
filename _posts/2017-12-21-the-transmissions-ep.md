@@ -11,9 +11,9 @@ summary: The release of "The Transmissions EP" marks the beginning of our OZET 1
 
 The release of "The Transmissions EP" marks the beginning of our OZET 10th anniversary celebration.
 
-[Buy the Album](https://ozet.bandcamp.com/album/the-transmissions-ep)
+[Buy the Album on Bandcamp](https://ozet.bandcamp.com/album/the-transmissions-ep)
 
-Over the next year we'll be cataloging and resurfacing our scores, films, scripts, recordings, performance footage, software, photos, and other ephemera.  We'll put out new and unreleased work.  And we'll continue developing and looking forward to a production of [*OoRT*](/works/oort/), our next evening-length live piece.
+or stream it anytime on your preferred platform: [Spotify](https://open.spotify.com/album/0UKmWjUHloyknGRrlle5mX),[Apple Music](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard),[iTunes](https://itunes.apple.com/us/album/the-transmissions/1455304716?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard),[Google Play/YouTube](https://play.google.com/store/music/album/Ozet_The_Transmissions?id=Bamwtxvwhbdwbcafrv7h4kv356m),[Deezer](https://www.deezer.com/album/89510132)
 
 ### About the Transmissions
 
