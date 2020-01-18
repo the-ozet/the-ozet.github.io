@@ -7,6 +7,10 @@ year: 2010
 ---
 ## Koba / OZET Songbook
 
+### Date
+
+March 6, 2010
+
 ### Location
 
 Ontological-Hysteric Theater
