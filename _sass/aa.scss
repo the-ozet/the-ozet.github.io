@@ -11,26 +11,30 @@ body {
   font-size: 15px;
 }
 
-.ozet-title {
+#ozet-title {
   position: absolute;
   font-family: "Saira", sans-serif;
   font-size: 36px;
   color: #000;
-  opacity: 0.5;
+  opacity: 0.7;
   font-weight: 700;
   text-decoration: none;
   transition: opacity 0.5s ease-in-out;
 
+  &.resizing {
+    visibility: hidden;
+  }
+
   &:hover {
-    opacity: 1;
+    opacity: 1 !important;
     text-decoration: none;
   }
 }
 
-#site-nav {
-  a {
-    display: block;
-  }
+#site-nav a {
+  display: block;
+  text-align: right;
+  margin-right: 20px;
 }
 
 .main-content {

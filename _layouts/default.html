@@ -33,21 +33,28 @@
       (function() {
         "use strict";
 
-        console.log("here I am I loaded");
-
         function testWidth(el, targetWidth, maxOffset = 10) {
-          setTimeout(function() {
-            const fontSize = window
-              .getComputedStyle(el)
-              .getPropertyValue("font-size");
-            const currentWidth = el.getBoundingClientRect().width;
-            const currentOffset = targetWidth - currentWidth;
-            if (Math.abs(currentOffset) > maxOffset) {
-              const fontShift = Math.round(currentOffset / 10);
-              el.style.fontSize = `${parseInt(fontSize) + fontShift}px`;
-              testWidth(el, targetWidth);
+          return new Promise(function(resolve, reject) {
+            function doTest() {
+              setTimeout(function() {
+                const fontSize = window
+                  .getComputedStyle(el)
+                  .getPropertyValue("font-size");
+                const { width, height } = el.getBoundingClientRect();
+                const currentOffset = targetWidth - width;
+                if (Math.abs(currentOffset) > maxOffset) {
+                  el.classList.add("resizing");
+                  const fontShift = Math.round(currentOffset / 10);
+                  el.style.fontSize = `${parseInt(fontSize) + fontShift}px`;
+                  doTest();
+                } else {
+                  el.classList.remove("resizing");
+                  resolve(height);
+                }
+              }, 0);
             }
-          }, 0);
+            doTest();
+          });
         }
 
         function placeTitle() {
@@ -57,7 +64,16 @@
           const title = document.getElementById("ozet-title");
           const targetWidth = x + width;
           title.style.marginLeft = `-${x}px`;
-          testWidth(title, targetWidth);
+          testWidth(title, targetWidth).then(placeNav);
+        }
+
+        function placeNav(titleHeight) {
+          const nav = document.getElementById("site-nav");
+          const topMargin = window
+            .getComputedStyle(nav)
+            .getPropertyValue("margin-top");
+          console.log(titleHeight, topMargin, `${titleHeight}px`);
+          nav.style.marginTop = `${titleHeight + 20}px`;
         }
 
         var throttle = function(type, name, obj) {
