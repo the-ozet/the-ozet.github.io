@@ -2,8 +2,7 @@
 category: OZET
 ---
 
-**OZET** is an ongoing artistic collaboration that encompasses a variety of live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
-
+<span class="ozet-style">OZET</span> is an ongoing artistic collaboration that encompasses a variety of live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
 
 <h2 class="hp-title">Latest</h2>
 <div class="row" id="latest-work">
@@ -17,7 +16,6 @@ category: OZET
   </div>
 </div>
 <h2 class="hp-title">Previous</h2>
-
 
 <div class="works-container">
 {% for work in site.works %}
@@ -36,8 +34,8 @@ category: OZET
 </div>
 
 {% capture additional_js %}
-  filter(reverseCron(WORKS).slice(2), '.works-container', (item, el) => {
-    return $(el).attr('title') === item.title
-  })
+filter(reverseCron(WORKS).slice(2), '.works-container', (item, el) => {
+return \$(el).attr('title') === item.title
+})
 {% endcapture %}
 {% include categories.html works="true" additional_js=additional_js %}

@@ -1,4 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Saira:700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Saira:400,700&display=swap");
+
+@mixin ozet-style($weight: 400) {
+  font-family: "Saira", sans-serif;
+  font-weight: $weight;
+}
 
 body {
   background: #efefef;
@@ -9,15 +14,18 @@ body {
   letter-spacing: 0.1em;
   line-height: 1.6em;
   font-size: 15px;
+  margin-top: 20px;
 }
 
 #ozet-title {
+  @include ozet-style(700);
+  top: 0;
+  left: 0;
   position: absolute;
-  font-family: "Saira", sans-serif;
+  padding: 0 0 0 30px;
   font-size: 36px;
   color: #000;
   opacity: 0.7;
-  font-weight: 700;
   text-decoration: none;
   transition: opacity 0.5s ease-in-out;
 
@@ -40,6 +48,10 @@ body {
 .main-content {
   margin-top: $pad;
   margin-bottom: $pad * 2;
+}
+
+.ozet-style {
+  @include ozet-style();
 }
 
 .works-maj {
@@ -117,6 +129,7 @@ body {
 }
 
 h2 {
+  @include ozet-style();
   margin-top: 0;
   margin-bottom: 30px;
 }
@@ -214,6 +227,9 @@ h4 {
 }
 
 @media only screen and (min-width: 320px) and (max-width: 767px) {
+  #ozet-title {
+    text-align: center;
+  }
   #site-nav a {
     float: left;
     margin-right: 20px;

@@ -1,40 +1,54 @@
-<h3>Videos</h3>
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<h2>Videos</h2>
+<script
+  type="text/javascript"
+  src="https://code.jquery.com/jquery-2.1.4.min.js"
+></script>
 <script type="text/javascript">
   $(document).ready(function() {
-    var thumbSelector = '.vid-thumb';
+    var thumbSelector = ".vid-thumb";
     var insertVideo = function($img, height) {
-      var $iframe = $('<iframe class="col-sm-6 col-xs-12" src="' + $img.data('video') + '" frameborder="0" allowfullscreen style="height: '+ height +'px"></iframe>')
+      var $iframe = $(
+        '<iframe class="col-sm-6 col-xs-12" src="' +
+          $img.data("video") +
+          '" frameborder="0" allowfullscreen style="height: ' +
+          height +
+          'px"></iframe>'
+      );
       $img.replaceWith($iframe);
-    }
+    };
 
-    $(document).on('click', thumbSelector, function() {
+    $(document).on("click", thumbSelector, function() {
       var $thumb = $(this);
-      console.log('CLICK');
+      console.log("CLICK");
       insertVideo($thumb, $thumb.height());
-    })
+    });
 
     $(thumbSelector).each(function() {
       var $img = $(this);
-      $img.height($img.width() * (9/16)).css('cursor', 'pointer')
-    })
+      $img.height($img.width() * (9 / 16)).css("cursor", "pointer");
+    });
   });
 </script>
 
 <div id="works-videos">
-{% for video in site.videos %}
-{% if video.work == page.title %}
-<figure class="row video" title="{{video.title}}">
-  <div class="vid-thumb col-sm-6 col-xs-12" data-video="https://www.youtube.com/embed/{{ video.videoid }}">
-    <div style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"></div>
-  </div>
-  <figcaption class="col-sm-6 col-xs-12">
-    <h4><a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a></h4>
-    <div class="caption">
-      {{ video.content }}
+  {% for video in site.videos %} {% if video.work == page.title %}
+  <figure class="row video" title="{{video.title}}">
+    <div
+      class="vid-thumb col-sm-6 col-xs-12"
+      data-video="https://www.youtube.com/embed/{{ video.videoid }}"
+    >
+      <div
+        style="background-image: url(https://i.ytimg.com/vi/{{ video.videoid }}/hqdefault.jpg)"
+      ></div>
     </div>
+    <figcaption class="col-sm-6 col-xs-12">
+      <h4>
+        <a href="https://youtu.be/{{video.videoid}}">{{ video.title }}</a>
+      </h4>
+      <div class="caption">
+        {{ video.content }}
+      </div>
     </figcaption>
-</figure>
-{% endif %}
-{% endfor %}
+  </figure>
+  {% endif %} {% endfor %}
 </div>
