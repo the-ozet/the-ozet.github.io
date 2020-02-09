@@ -35,7 +35,7 @@ category: OZET
 
 {% capture additional_js %}
 filter(reverseCron(WORKS).slice(2), '.works-container', (item, el) => {
-return \$(el).attr('title') === item.title
+return $(el).attr('title') === item.title
 })
 {% endcapture %}
 {% include categories.html works="true" additional_js=additional_js %}
