@@ -1,5 +1,5 @@
 ---
-catgory: About
+category: About
 ---
 
 ## About
