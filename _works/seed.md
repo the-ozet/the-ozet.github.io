@@ -1,5 +1,5 @@
 ---
-main_img: "Prologue-v4.jpg"
+main_img: "seed6.jpg"
 category: Works
 title: "OoRT Prologue: Seed Silent in the Field"
 date: 2017-01-05

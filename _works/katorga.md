@@ -1,11 +1,13 @@
 ---
-main_img: "katorga-becky.png"
+main_img: "katorga-becky.jpg"
 category: Works
 title: Katorga
 date: 2014-06-24
 year: 2014
 ---
+
 ## Katorga
+
 June, 2014
 
 ### Location
@@ -21,19 +23,18 @@ KATORGA revolves around the experiences of a woman exiled to OZET’s prison col
 {% include videos.html %}
 
 {% capture additional_js %}
-  const FEATURED = [
-    "OZET: Katorga [section 1]",
-    "OZET: Katorga [section 4c]",
-    "OZET: Katorga [section 7 & 8]",
-    "Katorga: section 6",
-    "Katorga Retraction Holiday"
-  ]
-  filter(FEATURED, '#works-videos', (item, el) => {
-    return $(el).attr('title') == item
-  })
+const FEATURED = [
+"OZET: Katorga [section 1]",
+"OZET: Katorga [section 4c]",
+"OZET: Katorga [section 7 & 8]",
+"Katorga: section 6",
+"Katorga Retraction Holiday"
+]
+filter(FEATURED, '#works-videos', (item, el) => {
+return \$(el).attr('title') == item
+})
 {% endcapture %}
 {% include categories.html videos="true" additional_js=additional_js %}
-
 
 ### Performers
 
