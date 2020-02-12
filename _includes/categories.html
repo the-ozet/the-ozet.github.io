@@ -31,7 +31,8 @@
 
     function between(set, start, end) {
       return [...set].filter(function(item) {
-        const itemDate = new Date(item.order_date || item.date);
+        // slice to deal with iOS date fails?
+        const itemDate = new Date((item.order_date || item.date).slice(0,10));
         let passes = false;
         if (start) {
           passes = itemDate > new Date(start);
