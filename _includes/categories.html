@@ -1,10 +1,9 @@
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script
+  type="text/javascript"
+  src="https://code.jquery.com/jquery-2.1.4.min.js"
+></script>
 <script type="text/javascript">
   (function() {
-
-    const Filterable = function() {
-      
-    }
 
     const filter = (set, container, test) => {
       let $container = $(container),
@@ -22,16 +21,37 @@
       return $holder;
     }
 
-    const reverseCron = (set) => {
+    function cron(set) {
       return [...set].sort(function(a, b) {
-        return (a.date > b.date) ? 1 : -1;
-      }).reverse()
+        const ad = a.order_date || a.date;
+        const bd = b.order_date || b.date;
+        return (ad > bd) ? 1 : -1;
+      })
+    }
+
+    function between(set, start, end) {
+      return [...set].filter(function(item) {
+        const itemDate = new Date(item.order_date || item.date);
+        let passes = false;
+        if (start) {
+          passes = itemDate > new Date(start);
+        }
+        if (end) {
+          passes = itemDate < new Date(end);
+        }
+        return passes;
+      })
+    }
+
+    const reverseCron = (set) => {
+      return cron(set).reverse();
     }
 
     {% if include.works %}
     const WORKS = [{% for work in site.works %}{
       title: "{{work.title}}",
       date: '{{work.date}}',
+      order_date: '{{work.order_date}}',
       subcategory: '{{work.subcategory}}'
     },{% endfor %}]
     {% endif %}

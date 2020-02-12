@@ -19,8 +19,8 @@ title: "Works"
 </div>
 
 {% capture additional_js %}
-  let $holder = filter(reverseCron(WORKS).slice(1), '#works-list', (item, el) => {
+let $holder = filter(reverseCron(WORKS), '#works-list', (item, el) => {
     return $(el).attr('title') === item.title
-  })
+})
 {% endcapture %}
 {% include categories.html works="true" additional_js=additional_js %}

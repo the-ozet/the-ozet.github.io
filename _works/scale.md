@@ -1,19 +1,21 @@
 ---
 main_img: "OoRT_3.jpg"
 category: Works
-title: OoRT
+title: "A Scale Unfamiliar: OZET Songs"
 date: 2020-01-01
-order_date: 2020-12-31
+order_date: 2020-04-01
 year: 2020
 ---
 
-## OoRT
+## A Scale Unfamiliar: OZET Songs
 
-TBA
+April 1-5, 2020<br/>
+8pm
 
 ### Location
 
-TBD
+(https://www.bricktheater.co/")[The Brick]</br>
+Brooklyn, New York
 
 ### Summary
 

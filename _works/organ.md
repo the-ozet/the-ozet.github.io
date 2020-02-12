@@ -10,13 +10,13 @@ year: 2019
 
 ### Dates
 
-July 16, 18, 20
+July 16, 18 and 20, 2020<br/>
 8pm
 
 ### Location
 
-Interrobang:New Works at The Brick
-<br>Brooklyn, NY
+Interrobang:New Works at The Brick<br/>
+Brooklyn, NY
 
 ### Summary
 
