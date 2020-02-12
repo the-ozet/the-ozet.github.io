@@ -1,5 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Saira:400,700&display=swap");
+
+@mixin ozet-style($weight: 400) {
+  font-family: "Saira", sans-serif;
+  font-weight: $weight;
+}
+
 body {
   background: #efefef;
+  -webkit-font-smoothing: antialiased;
 }
 
 #main {
@@ -7,57 +15,63 @@ body {
   letter-spacing: 0.1em;
   line-height: 1.6em;
   font-size: 15px;
-
-
+  margin-top: 20px;
 }
 
-.ozet-title {
+#ozet-title {
+  @include ozet-style(700);
+  top: 0;
+  left: 0;
+  position: absolute;
+  padding: 0 0 0 30px;
   font-size: 36px;
   color: #000;
-  opacity: .5;
-  font-weight: bold;
+  opacity: 0.7;
   text-decoration: none;
-  -webkit-transition: all .5s ease-in-out;
-  -moz-transition: all .5s ease-in-out;
-  -o-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
+
+  &.resizing {
+    visibility: hidden;
+  }
 
   &:hover {
-    opacity: 1;
+    opacity: 1 !important;
     text-decoration: none;
   }
 }
 
-#site-nav {
-  a {
-    display: block;
-  }
+#site-nav a {
+  display: block;
+  text-align: right;
+  margin-right: 20px;
 }
 
 .main-content {
   margin-top: $pad;
-  margin-bottom: $pad*2;
+  margin-bottom: $pad * 2;
+}
+
+.ozet-style {
+  @include ozet-style();
 }
 
 .works-maj {
-
-  margin-bottom: $pad*3;
+  margin-bottom: $pad * 3;
 
   h2 {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
-    display: border-box;
     padding: 0 30px;
-    /*font-weight: bold;*/
     color: #fff;
     line-height: 44px;
+    letter-spacing: normal;
 
     a {
       color: #fff;
       font-size: 44px;
-      font-weight: bold
+      font-weight: bold;
     }
   }
 
@@ -88,24 +102,24 @@ body {
   }
 
   .vid-thumb div {
-      width: 100%;
-      height: 100%;
-      background-size: 100%;
-      background-position: center;
-      cursor: pointer;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-position: center;
+    cursor: pointer;
   }
 
   .vid-thumb div:before {
-      content: '';
+    content: "";
 
-      display: block;
-      width: 100%;
-      height: 100%;
-      background-image: url('/assets/images/play-button.png');
-      background-position: center;
-      background-size: 25%;
-      background-repeat: no-repeat;
-      cursor: pointer;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/images/play-button.png");
+    background-position: center;
+    background-size: 25%;
+    background-repeat: no-repeat;
+    cursor: pointer;
   }
 
   figcaption .caption {
@@ -114,7 +128,9 @@ body {
   }
 }
 
-h2 {
+.main-content > h2,
+h2.hp-title {
+  @include ozet-style();
   margin-top: 0;
   margin-bottom: 30px;
 }
@@ -124,7 +140,6 @@ h4 {
 }
 
 #texts-page {
-
   p {
     font-size: 14px;
   }
@@ -148,7 +163,6 @@ h4 {
   }
 
   .new-work {
-
     height: 200px;
     margin: 0 auto;
     position: relative;
@@ -193,6 +207,10 @@ h4 {
   margin-top: 20px;
 }
 
+#story-page h3 {
+  margin-bottom: 1em;
+}
+
 #log-page {
   h3 {
     margin-bottom: 1em;
@@ -213,33 +231,31 @@ h4 {
   max-width: 500px;
 }
 
-
-@media only screen
-  and (min-width: 320px)
-  and (max-width: 767px) {
-
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  #ozet-title {
+    text-align: center;
+  }
   #site-nav a {
     float: left;
     margin-right: 20px;
     margin-bottom: 10px;
   }
-
 }
 
-@media only screen
-  and (min-width: 767px) {
+@media only screen and (min-width: 767px) {
+  h1,
+  h2,
+  h4,
+  h5 {
+    margin-bottom: 1em;
+  }
 
-    h1,h2,h4,h5 {
-      margin-bottom: 1em;
-    }
+  h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
 
-    h3 {
-      margin-top: 30px;
-      margin-bottom: 0;
-    }
-
-    p {
-      margin-bottom: 2em;
-    }
-
+  p {
+    margin-bottom: 2em;
+  }
 }

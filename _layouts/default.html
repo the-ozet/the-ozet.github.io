@@ -1,28 +1,102 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>OZET</title>
-  <link rel="stylesheet" type="text/css" href="/assets/stylesheets/styles.css" />
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-<div id="main">
-
-  <div id="page-content">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-2 col-xs-12">
-          <h1><a href="/" class="ozet-title">OZET</a></h1>
-          {% include nav.html %}
-        </div>
-        <div class="col-sm-8 col-xs-12 main-content" id="{{ page.category }}-page">
-          {{ content }}
+  <head>
+    <title>OZET</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/stylesheets/styles.css"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div id="main">
+      <div id="page-content">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-2 col-xs-12">
+              <h1><a href="/" class="ozet-title" id="ozet-title">OZET</a></h1>
+              {% include nav.html %}
+            </div>
+            <div
+              class="col-sm-8 col-xs-12 main-content"
+              id="{{ page.category }}-page"
+            >
+              {{ content }}
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
+    <script>
+      (function() {
+        "use strict";
 
-</body>
+        function testWidth(el, targetWidth, maxOffset = 10) {
+          return new Promise(function(resolve, reject) {
+            function doTest() {
+              setTimeout(function() {
+                const fontSize = window
+                  .getComputedStyle(el)
+                  .getPropertyValue("font-size");
+                const { width, height } = el.getBoundingClientRect();
+                const currentOffset = targetWidth - width;
+                if (Math.abs(currentOffset) > maxOffset) {
+                  el.classList.add("resizing");
+                  const fontShift = Math.round(currentOffset / 10);
+                  el.style.fontSize = `${parseInt(fontSize) + fontShift}px`;
+                  doTest();
+                } else {
+                  el.classList.remove("resizing");
+                  resolve(height);
+                }
+              }, 0);
+            }
+            doTest();
+          });
+        }
+
+        function placeTitle() {
+          const h1 = document.getElementsByTagName("h1")[0];
+          const { x, width } = h1.getBoundingClientRect();
+          const title = document.getElementById("ozet-title");
+          const targetWidth = x + width;
+          title.style.marginLeft = `-${x}px`;
+          testWidth(title, targetWidth).then(placeNav);
+        }
+
+        function placeNav(titleHeight) {
+          const nav = document.getElementById("site-nav");
+          const topMargin = window
+            .getComputedStyle(nav)
+            .getPropertyValue("margin-top");
+          nav.style.marginTop = `${titleHeight + 20}px`;
+        }
+
+        var throttle = function(type, name, obj) {
+          obj = obj || window;
+          var running = false;
+          var func = function() {
+            if (running) {
+              return;
+            }
+            running = true;
+            requestAnimationFrame(function() {
+              obj.dispatchEvent(new CustomEvent(name));
+              running = false;
+            });
+          };
+          obj.addEventListener(type, func);
+        };
+
+        /* init - you can init any event */
+        throttle("resize", "optimizedResize");
+
+        window.addEventListener("optimizedResize", placeTitle);
+
+        placeTitle();
+      })();
+    </script>
+  </body>
 </html>
