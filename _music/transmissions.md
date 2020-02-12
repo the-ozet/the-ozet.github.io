@@ -1,6 +1,6 @@
 ---
 category: Music
-title: Transmissions
+title: Other Transmissions
 date: 2010-11-22
 year: 2010
 linktype: playlist
