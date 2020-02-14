@@ -4,7 +4,7 @@ category: About
 
 ## About
 
-**OZET** is an ongoing artistic collaboration that encompasses live performances, films, music recordings, and a band. Each piece of the project draws on and expands <a href="/story/">the fictional history</a> of the Collective Sphere OZET.
+**OZET** is an ongoing artistic collaboration that encompasses live performances, films, music recordings, and a band. Each piece of the project draws on and expands <a href="/story.html">the fictional history</a> of the Collective Sphere OZET.
 
 OZET began in 2007, when Aaron Meicht started writing and performing musical forms inspired by his encounter with J.D. Bernal's prophetic 1929 scientific treatise <i>The World, The Flesh, and the Devil</i>. Scott Blumenthal joined Aaron in 2008 evolving the project, and together they developed the idea of the Collective Sphere OZET.
 
