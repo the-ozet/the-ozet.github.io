@@ -4,24 +4,26 @@ category: story
 
 ## Story
 
-This is what we know so far.
+_This is what we know so far._
 
 ### Prehistory
 
 In 1882, Sergei Veksler is born outside the northern Ukrainian city of Berdychiv. A loner, he spends his childhood roaming the forests and devising science experiments. He shows no interest in the Workers and Students demonstrations of 1895, nor he does not involve himself with the uprisings that lead to the establishment of the Eurasian Confederated Socialist States (ECSS) three years later.
 
-His first significant encounter with the new government comes in 1901. While studying engineering, he is arrested for conducting illegal tests of a homemade aerostat (balloon). Birds in Boxes He spends two weeks in jail. As a condition for continuing his education, he is put under the supervision of a professor tied to a federal aeronautics program. He distinguishes himself, graduates, and moves to the capital city of Zhytomyr where he joins a fledgling laboratory developing rockets.
+His first significant encounter with the new government comes in 1901. While studying engineering, he is arrested for conducting illegal tests of a homemade aerostat (balloon). <a href="/texts/birds/" class="song">Birds in Boxes</a> He spends two weeks in jail. As a condition for continuing his education, he is put under the supervision of a professor tied to a federal aeronautics program. He distinguishes himself, graduates, and moves to the capital city of Zhytomyr where he joins a fledgling laboratory developing rockets.
 
 In 1912, Sergei wins approval and funding for a protocol to put humans in space. He establishes his own laboratory 3 miles west of the city. Needing test subjects, Sergei personally recruits four physically appropriate vagrants from the streets of Zhytomyr. A fifth subject, the son of a low-ranking oblast administrator, begs his way into the program as well. One subject, pseudonymously referred to as Albert II, is killed in training (centrifuge accident).
 
-Two rockets depart in 1918. In each, Sergei and his team monitor the physical, psychological, and spiritual effects of the voyage on its pair of subjects. The rockets do not return to earth. Alberts I-V .
+Two rockets depart in 1918. In each, Sergei and his team monitor the physical, psychological, and spiritual effects of the voyage on its pair of subjects. The rockets do not return to earth. <a href="/works/alberts/" class="performance">Alberts I-V</a>
 
 Simultaneously encouraged by the success of the test voyages, frustrated by political unrest, and troubled by the flourishing of Jewish communities throughout the country, the leaders of the ECSS launch an ambitious expansion of the space program. They set their sights on Comet P41, expected to pass close to earth in 1928, as the intended location of their first extraterrestrial settlement for lishenets (enemies of the people).
 
-Missions to the comet commence in 1927: mining explorations, the ECSS tells suspicious nations around the world. By early 1929, they have prepared the comet's surface and carved subterranean areas sufficient for inhabitation by 700 people. The Committee for the Deployment of Working Jews, with funds secured through private donations and its popular public lotteries, begins relocating the first generation of "pioneers" on March 6, providing them with building materials and farming equipment, livestock and crop seedlings as well as a variety of other flora and fauna, and cultural products for the education and edification of this new society. You're Going .
+Missions to the comet commence in 1927: mining explorations, the ECSS tells suspicious nations around the world. By early 1929, they have prepared the comet's surface and carved subterranean areas sufficient for inhabitation by 700 people. The Committee for the Deployment of Working Jews, with funds secured through private donations and its popular public lotteries, begins relocating the first generation of "pioneers" on March 6, providing them with building materials and farming equipment, livestock and crop seedlings as well as a variety of other flora and fauna, and cultural products for the education and edification of this new society. <a href="/texts/going/" class="song">You're Going</a>
 
 On March 23, ECSS celebrates the official dedication of the Collective Sphere OZET. While it is not intended to return to Earth, it is expected to cross a band of stars emanating from cluster 310 (as defined in the New General Catalogue) in roughly 360 years, at which point it will be considered a completely autonomous oblast, under the independent governance of the Sixteenth Generation of OZET Pioneers.”
-The First Generations
+
+### The First Generations
+
 The pioneers establish twenty collective farming communities, naming them after their home villages. Conditions are harsh and resources are scarce. Between them, however, the villages are capable of producing the food, textiles, shelter, water and air required to sustain the whole population.
 
 Children are born that have never set foot on the Earth, but the oldest pioneers maintain many traditions: they read sacred texts, eat and drink as they used to, and perpetuate the family structures they knew before. They sing Earth songs and teach the children how to whistle the songs of birds they will never hear. Affiliations that began on Earth shape the distinct character of the different villages. Tamaz's Song .

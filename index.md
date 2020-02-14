@@ -2,7 +2,7 @@
 category: OZET
 ---
 
-<span class="ozet-style">OZET</span> is an ongoing artistic collaboration that encompasses live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands the fictional history of the Collective Sphere OZET.
+<span class="ozet-style">OZET</span> is an ongoing artistic collaboration that encompasses live performances, films, studio-produced song recordings, and a band. Each piece of the project draws on and expands <a href="/story/">the fictional history</a> of the Collective Sphere OZET.
 
 <h2 class="hp-title">Upcoming</h2>
 <div class="upcoming-works-container">

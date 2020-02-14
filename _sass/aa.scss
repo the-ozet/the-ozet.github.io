@@ -60,6 +60,15 @@ body {
   margin-bottom: $pad * 2;
 }
 
+#OZET-page p {
+  font-size: 18px;
+  line-height: 1.6;
+  a {
+    font-weight: bold;
+    letter-spacing: 0.05em;
+  }
+}
+
 .ozet-style {
   @include ozet-style();
 }
@@ -155,21 +164,11 @@ h4 {
   }
 }
 
-.hp-title {
-  // font-size: 32px;
-  // font-weight: bold;
-}
-
 #latest-work {
-  // display: flex;
-  // flex-direction: row;
-  // flex-wrap: wrap;
-  // position: relative;
-  // justify-content: space-between;
   margin-bottom: $pad;
 
   &.up-2 .new-work {
-    // width: 45%;
+    width: 45%;
   }
 
   .new-work {
@@ -195,16 +194,6 @@ h4 {
       position: 200;
       font-size: 28px;
       font-weight: bold;
-    }
-
-    &:hover {
-      // width: calc(100% - 30px);
-      // margin-left: 15px;
-      // box-sizing: border-box;
-      // position: absolute;
-      // z-index: 100;
-      // top: 0;
-      // left: 0;
     }
 
     p {
@@ -241,6 +230,31 @@ h4 {
   max-width: 500px;
 }
 
+#story-page p {
+  a {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #000;
+    font-style: italic;
+    transition: background-color 0.5s;
+
+    &.song {
+      background-color: rgba(255, 125, 2, 0.7);
+      &:hover {
+        background-color: rgba(255, 125, 2, 1);
+      }
+    }
+
+    &.performance {
+      background-color: rgba(255, 0, 0, 0.7);
+      &:hover {
+        background-color: rgba(255, 0, 0, 1);
+      }
+    }
+  }
+}
+
 @media only screen and (min-width: 320px) and (max-width: 767px) {
   #ozet-title {
     text-align: center;
@@ -249,6 +263,10 @@ h4 {
     float: left;
     margin-right: 20px;
     margin-bottom: 10px;
+  }
+
+  #OZET-page p {
+    font-size: 16px;
   }
 
   .works-maj h2 {
