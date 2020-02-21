@@ -24,6 +24,8 @@ The (Augmented) Periodic Infinity Organ is a multi-performer, moving picture-gen
 
 OZET will premier two historically significant story songs written for it and deliver a short lecture demonstration about the device.
 
+{% include videos.html %}
+
 ### Performers
 
 Daniel Baker: vocals<br/>
