@@ -70,7 +70,8 @@ Believe me, my cousins,<br/>
 that life isn't always<br/>
 like what came before it:<br/>
 The soil is changed by each harvest.<br/>
-The child is not like his father.<br/>
+The child is not like his father.
+
 The grandson is dreaming.<br/>
 A boy he knows told him<br/>
 they're building a city in the desert.<br/>
@@ -80,6 +81,7 @@ He dreams he can climb these mountains.<br/>
 
 The soil is changed by each harvest.<br/>
 The child is not like his father.<br/>
-The law is rewrit with each judgement.<br/>
+The law is rewrit with each judgement.
+
 Something's lost,<br/>
 something's gained.
