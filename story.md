@@ -44,24 +44,26 @@ Music flourishes. Composers across OZET give expression to the values and aspira
 
 ### The Middle Generations
 
-Two-hundred years after OZET's departure, in the early 22nd Century, corruption begins to tarnish the idealism of the Golden Age. Individual councilors gather power. They grant and enjoy favors. Village councils mirror these perversions. "Justice" increasingly serves personal ends. The Council establishes imprisonment and a legitimate form of punishment and necessary instrument of law enforcement. The Milk Cow Song .
+Two-hundred years after OZET's departure, in the early 22nd Century, corruption begins to tarnish the idealism of the Golden Age. Individual councilors gather power. They grant and enjoy favors. Village councils mirror these perversions. "Justice" increasingly serves personal ends. The Council establishes imprisonment and a legitimate form of punishment and necessary instrument of law enforcement. <a href="/texts/milk_cow/" class="song">The Milk Cow Song</a>
 
-Folks songs emerge as a new form of popular culture, giving pioneers relief from Golden Age music's relentless patriotism. These songs depict sucker heros and baffled villains, jealousy, powerlessness, and loss. The Ballad of Yana and Gigi (You Drunken Fuck) . Most embellish on real events, like the case of a stranger, found dead, in a Village 20 kitchen: a double mystery in a world where there are no strangers. Koba .
+Folks songs emerge as a new form of popular culture, giving pioneers relief from Golden Age music's relentless patriotism. These songs depict sucker heros and baffled villains, jealousy, powerlessness, and loss. <a href="/texts/milk_cow/" class="song">The Ballad of Yana and Gigi (You Drunken Fuck)</a> Most embellish on real events, like the case of a stranger, found dead, in a Village 20 kitchen: a double mystery in a world where there are no strangers. <a href="/texts/koba_song/" class="song">The Ballad of Koba</a>
 
 In the 12th Generation, thirty prisoners coordinate a breakout. They tear down the prison fences, rampage through nearby Village 5, and head for the city. The constabulary meets them on the way. Nine prisoners and two officers die; twelve are recaptured; the rest disappear into the villages. (All will eventually be found.) It is the deadliest and most destructive conflict in OZET's history.
 
-The Council enlists young pioneers from every village to create a new prison, hewn away from the narrow end of the comet and dragged behind OZET at a distance of 6895 meters, tethered by an enormous chain. Hold the Chain (Katorga, Sc. 2) . Katorga inmates live in camps and labor together in dim mushroom fields.
+The Council enlists young pioneers from every village to create a new prison, hewn away from the narrow end of the comet and dragged behind OZET at a distance of 6895 meters, tethered by an enormous chain. <a href="https://www.youtube.com/watch?v=kWIUV5bxNIc" class="film">Hold the Chain (Katorga, Sc. 2)</a> Katorga inmates live in camps and labor together in dim mushroom fields.
 
-Once each year, winches draw the katorga back into contact with OZET. Newly convicted criminals are transferred to the colony, and those who have completed their sentences return home. They bring with them the annual mushroom harvest: a penitent gesture, a symbol of their redemption. Katorga Retraction Film .
-Turmoil
+Once each year, winches draw the katorga back into contact with OZET. <a href="https://www.youtube.com/watch?v=20rdRL6R13w" class="film">Katorga Retraction Holiday</a><a href="http://localhost:4000/assets/scores/katorga-holiday-retraction.pdf" class="performance">(score)</a> Newly convicted criminals are transferred to the colony, and those who have completed their sentences return home. They bring with them the annual mushroom harvest: a penitent gesture, a symbol of their redemption. <a href="https://youtu.be/qDF6M3u0hLM" class="film">Katorga Retraction Film</a>
+
+### Turmoil
+
 In the late 14th Generation, catastrophic crop failures shock villages across OZET. The Council, trying to avert widespread panic, isolates the villages from one another, telling each that it is the only village facing a crisis. A quarantine, they say, will protect the village's reputation and the wellfare of its neighbors.
 
-On the eve of the Festival of the Fifteenth Generation, however, a group of subversives interrupts the central festival broadcast to reveal The Council's lies. They claim to have confederates in every village and declare the beginning of a resistance against The Council. The Council abruptly cancels the celebration and orders its officers in the villages to hunt for the subversives. Common Hall Village 20 . That night, in the city, Senior Councilor Dzaglika is assassinated at his home.
+On the eve of the Festival of the Fifteenth Generation, however, a group of subversives interrupts the central festival broadcast to reveal The Council's lies. They claim to have confederates in every village and declare the beginning of a resistance against The Council. The Council abruptly cancels the celebration and orders its officers in the villages to hunt for the subversives. <a href="/works/chv20" class="performance">Common Hall Village 20</a> That night, in the city, Senior Councilor Dzaglika is assassinated at his home.
 
 The Council blames The New Horizon, a secret, putschist organization thought to be behind the festival disruptions. Several presumed members are arrested. Nadezdha Abkhazi, a clerk in The City's Agricultural Resources Department, is convicted of planting the bomb that killed Dzaglika. She is sent to the katorga.
 
 Near the end of her first year, Abkhazi assaults the Chief Jailor, then swallows poison to avoid
-corporal punishment. Katorga . Abkhazi's confederates smuggle out and disseminate her own account of her ordeal in the prison, sparking widespread outrage, protest and calls for reform.
+corporal punishment. <a href="/works/katorga" class="performance">Katorga</a> Abkhazi's confederates smuggle out and disseminate her own account of her ordeal in the prison, sparking widespread outrage, protest and calls for reform.
 
 The harvest does not improve. Villagers defy the quarantines. During the third year of the 15th generation, the constabulary dissolves in a matter of days. City workers desert their posts and return to their villages. Without administrative machinery or the muscle to enforce its rulings, the Council begins to wither.
 
@@ -69,14 +71,14 @@ The harvest does not improve. Villagers defy the quarantines. During the third y
 
 The 16th Generation arrives without celebrations. A new parochialism takes hold: the pioneers struggle to rebuild community close to home while farmers try to save the crops that defined their villages. Scientists, done with the city, focus on irrigation and soil health.
 
-There are some good years, but they don't last. First goes the rye then, to the surprise of all, the dill. A few pioneers pilfer and horde, cultivating a new black market. The Smuggler .
+There are some good years, but they don't last. First goes the rye then, to the surprise of all, the dill. A few pioneers pilfer and horde, cultivating a new black market. <a href="/texts/smuggler/" class="song">The Smuggler</a><a href="https://www.youtube.com/watch?v=Oj9gFLn_mIM" class="film">(film)</a>
 
 Undernourished mothers miscarry week after week. Women who chose to become "generators" decide against it. The birth rate declines and so does the total population. Heartbreak grass (Gelsemium elegans), once grown for its pretty flowers, has somehow survived the crop failures. Pioneers over the ripe age of 45 begin a custom of drinking "heartbreak tea"; it takes about half an hour for them to stop breathing.
 
 Barren villages empty out. Some villages welcome newcomers, others construct fences.
 
-In the 18th Generation, with the OZET growing colder, relations between the villages begin to thaw slightly. Pioneers long for the foodstuffs and products their own villages can not make. They begin reserving a part of each harvest to share with other villages. These practices evolve over time into an elaborate new economy: villages spend years preparing extravagant gifts and waiting as patiently as they can for these gifts to be reciprocated. They write and sing communal songs the first time in generations; music accompanies the presentation and acceptance of every gift.
+In the 18th Generation, with the OZET growing colder, relations between the villages begin to thaw slightly. Pioneers long for the foodstuffs and products their own villages can not make. They begin reserving a part of each harvest to share with other villages. These practices evolve over time into an elaborate new economy: villages spend years preparing extravagant gifts and waiting as patiently as they can for these gifts to be reciprocated. <a href="/works/seed/" class="performance">OoRT Prologue: Seed Silent in The Field</a>They write and sing communal songs the first time in generations; music accompanies the presentation and acceptance of every gift.
 
-Not every promise, however, is kept.
+Not every promise, however, is kept. <a href="/works/oort/" class="performance">OoRT</a>
 
 OZET enters the Oort cloud.
