@@ -22,7 +22,7 @@ Take this guitar<br/>
 made on Earth<br/>
 from Baltic birch<br/>
 nineteen generations back:<br/>
-dream you had a father<br/>1
+dream you had a father<br/>
 and he gave it to you<br/>
 like his father gave it to him.<br/>
 Very nice.<br/>
