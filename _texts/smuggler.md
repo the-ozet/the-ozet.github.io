@@ -32,8 +32,7 @@ tea and jam.<br/>
 You can bet he's got a woman<br/>
 in his sights.
 
-Look around<br/>
-son,<br/>
+Look around son,<br/>
 ain't that hard to see:<br/>
 things weren't as bad as they are<br/>
 well<br/>
@@ -61,15 +60,14 @@ You have to know which ducts have loose covers.<br/>
 You have to know the value<br/>
 of patina and perfume.
 
-Look around<br/>
-son,<br/>
+Look around son,<br/>
 ain't that hard to see:<br/>
 things weren't as bad as they are<br/>
 well<br/>
 they'd be worse for me.
 
 Can't say what happened.<br/>
-The crops just die,<br/>
+The crops just die<br/>
 for lack of something in the soil<br/>
 that once was there.<br/>
 Now it's gone.
