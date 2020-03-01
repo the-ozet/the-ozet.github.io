@@ -8,13 +8,13 @@ _This is what we know so far._
 
 ### Prehistory
 
-In 1882, Sergei Veksler is born outside the northern Ukrainian city of Berdychiv. A loner, he spends his childhood roaming the forests and devising science experiments. He shows no interest in the Workers and Students demonstrations of 1895, nor he does not involve himself with the uprisings that lead to the establishment of the Eurasian Confederated Socialist States (ECSS) three years later.
+In 1882, Sergei Veksler is born outside the northern Ukrainian city of Berdychiv. A loner, he spends his childhood roaming the forests and devising science experiments. He shows no interest in the Workers and Students demonstrations of 1895, nor he does involve himself with the uprisings that lead to the establishment of the Eurasian Confederated Socialist States (ECSS) three years later.
 
 His first significant encounter with the new government comes in 1901. While studying engineering, he is arrested for conducting illegal tests of a homemade aerostat (balloon). <a href="/texts/birds/" class="song">Birds in Boxes</a> He spends two weeks in jail. As a condition for continuing his education, he is put under the supervision of a professor tied to a federal aeronautics program. He distinguishes himself, graduates, and moves to the capital city of Zhytomyr where he joins a fledgling laboratory developing rockets.
 
-In 1912, Sergei wins approval and funding for a protocol to put humans in space. He establishes his own laboratory 3 miles west of the city. Needing test subjects, Sergei personally recruits four physically appropriate vagrants from the streets of Zhytomyr. A fifth subject, the son of a low-ranking oblast administrator, begs his way into the program as well. One subject, pseudonymously referred to as Albert II, is killed in training (centrifuge accident).
+In 1912, Sergei wins approval and funding for a protocol to put humans in space. He establishes his own laboratory 3 miles west of the city. Needing test subjects, Sergei himself recruits four physically appropriate vagrants from the streets of Zhytomyr. A fifth subject, the son of a low-ranking oblast administrator, begs his way into the program as well. One subject, pseudonymously referred to as Albert II, is killed in training (centrifuge accident).
 
-Two rockets depart in 1918. In each, Sergei and his team monitor the physical, psychological, and spiritual effects of the voyage on its pair of subjects. The rockets do not return to earth. <a href="/works/alberts/" class="performance">Alberts I-V</a>
+Two rockets depart in 1918. Sergei and his team monitor the physical, psychological, and spiritual effects of each voyage on its pair of subjects. The rockets do not return to earth. <a href="/works/alberts/" class="performance">Alberts I-V</a>
 
 Simultaneously encouraged by the success of the test voyages, frustrated by political unrest, and troubled by the flourishing of Jewish communities throughout the country, the leaders of the ECSS launch an ambitious expansion of the space program. They set their sights on Comet P41, expected to pass close to earth in 1928, as the intended location of their first extraterrestrial settlement for lishenets (enemies of the people).
 
