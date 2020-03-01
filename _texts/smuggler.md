@@ -18,11 +18,11 @@ on what else they don't have,<br/>
 and what they've got<br/>
 they're hot to trade.
 
-Take this guitar.<br/>
-Made on Earth<br/>
+Take this guitar<br/>
+made on Earth<br/>
 from Baltic birch<br/>
-nineteen generations back.<br/>
-Dream you had a father<br/>1
+nineteen generations back:<br/>
+dream you had a father<br/>1
 and he gave it to you<br/>
 like his father gave it to him.<br/>
 Very nice.<br/>
