@@ -14,7 +14,7 @@ April 1-5, 2020<br/>
 
 ### Location
 
-[The Brick](https://www.bricktheater.co/)<br/>
+[The Brick](https://www.bricktheater.com/)<br/>
 Brooklyn, New York
 
 ### Summary
@@ -44,6 +44,7 @@ Aaron Meicht: voice, trumpet, keyboards<br>
 
 ### Designers / Crew
 
-Cha See: lights<br>
+Cha See: lighting consultant<br>
+Zach Lobel: lighting designer<br>
 Broken Chord: sound<br>
 Phillip Peglow: sound mixing
