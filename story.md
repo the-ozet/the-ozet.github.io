@@ -44,7 +44,7 @@ Music flourishes. Composers across OZET give expression to the values and aspira
 
 ### The Middle Generations
 
-Two-hundred years after OZET's departure, in the early 22nd Century, corruption begins to tarnish the idealism of the Golden Age. Individual councilors gather power. They grant and enjoy favors. Village councils mirror these perversions. "Justice" increasingly serves personal ends. The Council establishes imprisonment and a legitimate form of punishment and necessary instrument of law enforcement. <a href="/texts/milk_cow/" class="song">The Milk Cow Song</a>
+Two-hundred years after OZET's departure, in the early 22nd Century, corruption begins to tarnish the idealism of the Golden Age. Individual councilors gather power. They grant and enjoy favors. Village councils mirror these perversions. "Justice" increasingly serves personal ends. The Council establishes imprisonment as a legitimate form of punishment and necessary instrument of law enforcement. <a href="/texts/milk_cow/" class="song">The Milk Cow Song</a>
 
 Folks songs emerge as a new form of popular culture, giving pioneers relief from Golden Age music's relentless patriotism. These songs depict sucker heros and baffled villains, jealousy, powerlessness, and loss. <a href="/texts/milk_cow/" class="song">The Ballad of Yana and Gigi (You Drunken Fuck)</a> Most embellish on real events, like the case of a stranger, found dead, in a Village 20 kitchen: a double mystery in a world where there are no strangers. <a href="/texts/koba_song/" class="song">The Ballad of Koba</a>
 
