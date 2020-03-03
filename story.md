@@ -77,7 +77,7 @@ Undernourished mothers miscarry week after week. Women who chose to become "gene
 
 Barren villages empty out. Some villages welcome newcomers, others construct fences.
 
-In the 18th Generation, with the OZET growing colder, relations between the villages begin to thaw slightly. Pioneers long for the foodstuffs and products their own villages can not make. They begin reserving a part of each harvest to share with other villages. These practices evolve over time into an elaborate new economy: villages spend years preparing extravagant gifts and waiting as patiently as they can for these gifts to be reciprocated. <a href="/works/seed/" class="performance">OoRT Prologue: Seed Silent in The Field</a>They write and sing communal songs the first time in generations; music accompanies the presentation and acceptance of every gift.
+In the 18th Generation, with the OZET growing colder, relations between the villages begin to thaw slightly. Pioneers long for the foodstuffs and products their own villages can not make. They begin reserving a part of each harvest to share with other villages. These practices evolve over time into an elaborate new economy: villages spend years preparing extravagant gifts and waiting as patiently as they can for these gifts to be reciprocated. <a href="/works/seed/" class="performance">OoRT Prologue: Seed Silent in The Field</a> They write and sing communal songs the first time in generations; music accompanies the presentation and acceptance of every gift.
 
 Not every promise, however, is kept. <a href="/works/oort/" class="performance">OoRT</a>
 
