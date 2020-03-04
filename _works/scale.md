@@ -1,5 +1,5 @@
 ---
-main_img: "scale.jpg"
+main_img: "scale-card.jpg"
 category: Works
 title: "A Scale Unfamiliar: OZET Songs"
 date: 2020-01-01
