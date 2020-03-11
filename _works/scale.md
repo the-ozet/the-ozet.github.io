@@ -45,6 +45,6 @@ Aaron Meicht: voice, trumpet, keyboards<br>
 ### Designers / Crew
 
 Cha See: lighting consultant<br>
-Zach Lobel: lighting designer<br>
+Zack Lobel: lighting designer<br>
 Broken Chord: sound<br>
 Phillip Peglow: sound mixing
