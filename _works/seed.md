@@ -44,4 +44,4 @@ Aaron Meicht: acting, trumpet
 
 ### Designers
 
-Set, lights, sound and video by Aaron Meicht and Scott Blumenthal
+Set, lights, sound, and video by Aaron Meicht and Scott Blumenthal
