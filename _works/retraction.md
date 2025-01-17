@@ -27,7 +27,7 @@ The performance evokes a moment of life on the OZET: a semi-autonomous, off-eart
 
 For most of the year, OZET’s prison colony (or katorga) safely trails 6895 km behind the home comet.  Annually, for twelve days, life comes to a halt as a winch deep inside OZET draws the katorga back in. The farming villages are somber and still. People eat simple meals together, sing traditional songs, and engage in quiet, solitary pursuits. Some prisoners return home, carrying the year's mushroom harvest to their grateful villages, and newly sentenced prisoners go aboard.  On the twelfth day, the katorga departs, and life resumes.
 
-During Katorga Retraction Holiday, the noise of OZET's internal machinery fills the air.  An hour represents each day.  The performers occupy shared and private areas within the larger space, passing time there in their own way.  At the top of each hour, they gather to prepare and partake of a different nourishment, like boiled buckwheat groats, ham spread, potatoes, and rye whiskey.  As the hour closes, they play and sing a variation of the Katorga Holiday Hymn. 
+During Katorga Retraction Holiday, the noise of OZET's internal machinery fills the air.  An hour represents each day.  The performers occupy shared and private areas within the larger space, passing time there in their own way.  At the top of each hour, they gather to prepare and partake of a different nourishment, like boiled buckwheat groats, ham spread, potatoes, and rye whiskey.  As the hour closes, they play and sing variations of the Katorga Holiday Hymn. 
 
 ### Performers
 
