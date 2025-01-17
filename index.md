@@ -42,7 +42,7 @@ category: OZET
 filter(reverseCron(between(WORKS, null, '2020-01-31')), '.works-container', (item, el) => {
 return $(el).attr('title') === item.title
 })
-filter(cron(between(WORKS, '2020-02-01')), '.upcoming-works-container', (item, el) => {
+filter(reverseCron(between(WORKS, '2020-02-01')), '.upcoming-works-container', (item, el) => {
 return $(el).attr('title') === item.title
 })
 {% endcapture %}
