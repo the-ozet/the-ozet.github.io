@@ -5,6 +5,7 @@ title: "Katorga Retraction Holiday"
 date: 2025-01-24
 order_date: 2025-01-24
 year: 2025
+permalink: /works/krh
 ---
 
 ## Katorga Retraction Holiday
