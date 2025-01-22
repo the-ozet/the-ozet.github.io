@@ -16,6 +16,12 @@ New York, New York
 
 After a five and a half year hiatus, OZET reemerges with **Katorga Retraction Holiday**, a 12-hour performance.  First presented in 2012, KRH is a contemplative exploration of solitude and community, freedom and confinement, stasis and activity.  
 
+### Materials
+
+#### [Audience Guide](https://drive.google.com/file/d/12jPMtHxBNFEJnDS-t89nYZOUztuJ-2Pe/view?usp=sharing)
+
+#### [Hymnal](https://drive.google.com/file/d/1iMNWWsUUzmRdEcBMX2krYP9L3lkFBgYq/view?usp=sharing)
+
 ### About Katorga Retraction Holiday
 
 The performance evokes a moment of life on the OZET: a semi-autonomous, off-earth settlement created by the Eurasian Confederated Socialist States (ECSS) as a home for enemies of the people.  KHR is set in the turgid, early days of the fifteenth generation, 300 years into OZET’s journey toward the Oort Cloud and beyond earth’s solar system.
