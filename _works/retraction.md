@@ -30,6 +30,12 @@ For most of the year, OZET’s prison colony (or katorga) safely trails 6895 km 
 
 During Katorga Retraction Holiday, the noise of OZET's internal machinery fills the air.  An hour represents each day.  The performers occupy shared and private areas within the larger space, passing time there in their own way.  At the top of each hour, they gather to prepare and partake of a different nourishment, like boiled buckwheat groats, ham spread, potatoes, and rye whiskey.  As the hour closes, they play and sing variations of the Katorga Holiday Hymn. 
 
+### Materials
+
+#### [Audience Guide](https://drive.google.com/file/d/12jPMtHxBNFEJnDS-t89nYZOUztuJ-2Pe/view?usp=sharing)
+
+#### [Hymnal](https://drive.google.com/file/d/1iMNWWsUUzmRdEcBMX2krYP9L3lkFBgYq/view?usp=sharing)
+
 ### Performers
 
 Scott Blumenthal<br>
